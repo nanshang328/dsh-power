@@ -1,1 +1,57 @@
-IiIiQnVpbGQgdGhlIGJ1dHRvbiBpY29uIGZvciBkc2gtcG93ZXIgZnJvbSB0aGUgdXNlcidzIGlsbHVzdHJhdGlvbi4KClNvdXJjZSBvZiB0cnV0aDogIGRzaC1wb3dlci9jbGllbnQvbmlhbmctc2xlZXAucG5nICAgKHdoYXRldmVyIHRoZSB1c2VyIGRyb3BzIHRoZXJlKQpVc2FnZTogICAgICAgICAgICBweXRob24gdG9vbHMvYnVpbGQtaWNvbi5weQoKSXQgb25seSAqbWVhc3VyZXMqIGNhbmRpZGF0ZSBlbmNvZGluZ3Mgc28gd2UgY2FuIHBpY2sgb25lIHRoYXQga2VlcHMgdGhlIHdpZGdldApzbWFsbDsgdGhlIGFjdHVhbCBkYXRhLVVSSSBpbmplY3Rpb24gaXMgZG9uZSBieSB0b29scy9lbWJlZC1pY29uLmNqcy4KIiIiCmltcG9ydCBvcwppbXBvcnQgc2h1dGlsCmltcG9ydCBzeXMKCmZyb20gUElMIGltcG9ydCBJbWFnZQoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpQTFVHSU4gPSBvcy5wYXRoLmRpcm5hbWUoSEVSRSkKQ0xJRU5UID0gb3MucGF0aC5qb2luKFBMVUdJTiwgImNsaWVudCIpClRBUkdFVCA9IG9zLnBhdGguam9pbihDTElFTlQsICJuaWFuZy1zbGVlcC5wbmciKQpTT1VSQ0UgPSBzeXMuYXJndlsxXSBpZiBsZW4oc3lzLmFyZ3YpID4gMSBlbHNlIHIiQzpcVXNlcnNcMjExNTVcRGVza3RvcFxzaHVpamlhby5wbmciCk9VVCA9IG9zLnBhdGguam9pbihQTFVHSU4sICJfaWNvbi1idWlsZCIpCgpvcy5tYWtlZGlycyhDTElFTlQsIGV4aXN0X29rPVRydWUpCm9zLm1ha2VkaXJzKE9VVCwgZXhpc3Rfb2s9VHJ1ZSkKCmlmIG9zLnBhdGguYWJzcGF0aChTT1VSQ0UpICE9IG9zLnBhdGguYWJzcGF0aChUQVJHRVQpOgogICAgc2h1dGlsLmNvcHlmaWxlKFNPVVJDRSwgVEFSR0VUKQoKaW0gPSBJbWFnZS5vcGVuKFRBUkdFVCkKcHJpbnQoInNvdXJjZSAgICAgIDoiLCBUQVJHRVQpCnByaW50KCJzaXplICAgICAgICA6IiwgaW0uc2l6ZSwgIm1vZGUiLCBpbS5tb2RlLCAiYnl0ZXMiLCBvcy5wYXRoLmdldHNpemUoVEFSR0VUKSkKcHJpbnQoImFzcGVjdCAgICAgIDogJS40ZiIgJSAoaW0ud2lkdGggLyBpbS5oZWlnaHQpKQoKcmdiID0gaW0uY29udmVydCgiUkdCIikKcm93cyA9IFtdCmZvciB3aWR0aCBpbiAoMjU2LCAzODQsIDUxMik6CiAgICBoZWlnaHQgPSBtYXgoMSwgcm91bmQod2lkdGggKiBpbS5oZWlnaHQgLyBpbS53aWR0aCkpCiAgICByZXNpemVkID0gcmdiLnJlc2l6ZSgod2lkdGgsIGhlaWdodCksIEltYWdlLkxBTkNaT1MpCiAgICBmb3IgZXh0LCBrdyBpbiAoKCJwbmciLCB7Im9wdGltaXplIjogVHJ1ZX0pLCAoIndlYnAiLCB7InF1YWxpdHkiOiA4NiwgIm1ldGhvZCI6IDZ9KSk6CiAgICAgICAgcGF0aCA9IG9zLnBhdGguam9pbihPVVQsICJuaWFuZy0lZC4lcyIgJSAod2lkdGgsIGV4dCkpCiAgICAgICAgcmVzaXplZC5zYXZlKHBhdGgsICoqa3cpCiAgICAgICAgc2l6ZSA9IG9zLnBhdGguZ2V0c2l6ZShwYXRoKQogICAgICAgIHJvd3MuYXBwZW5kKChvcy5wYXRoLmJhc2VuYW1lKHBhdGgpLCAiJWR4JWQiICUgKHdpZHRoLCBoZWlnaHQpLCBzaXplLCByb3VuZChzaXplICogNCAvIDMpKSkKCnByaW50KCkKcHJpbnQoIiUtMjJzICUtMTBzICU5cyAlMTBzIiAlICgiZmlsZSIsICJwaXhlbHMiLCAiYnl0ZXMiLCAiYjY0IGNoYXJzIikpCmZvciBuYW1lLCBwaXhlbHMsIHNpemUsIGI2NCBpbiBzb3J0ZWQocm93cywga2V5PWxhbWJkYSByOiByWzJdKToKICAgIHByaW50KCIlLTIycyAlLTEwcyAlOWQgJTEwZCIgJSAobmFtZSwgcGl4ZWxzLCBzaXplLCBiNjQpKQoKIyBUaGUgb25lIHRoZSB3aWRnZXQgYWN0dWFsbHkgaW5saW5lczogNTEycHggd2lkZSAoMy4yeCB0aGUgMTYwcHggY2hpcCwgc28gaXQKIyBzdGF5cyBzaGFycCBvbiBIaURQSSkgV2ViUCAoNDAgS0IgYmFzZTY0IHZzIDI2NyBLQiBmb3IgdGhlIFBORykuCkZJTkFMID0gb3MucGF0aC5qb2luKENMSUVOVCwgIm5pYW5nLXNsZWVwLndlYnAiKQpyZ2IucmVzaXplKCg1MTIsIG1heCgxLCByb3VuZCg1MTIgKiBpbS5oZWlnaHQgLyBpbS53aWR0aCkpKSwgSW1hZ2UuTEFOQ1pPUykuc2F2ZSgKICAgIEZJTkFMLCAid2VicCIsIHF1YWxpdHk9ODYsIG1ldGhvZD02CikKcHJpbnQoKQpwcmludCgiZW1iZWRkZWQgaWNvbiA6IiwgRklOQUwsIG9zLnBhdGguZ2V0c2l6ZShGSU5BTCksICJieXRlcyIpCnByaW50KCJuZXh0ICAgICAgICAgIDogbm9kZSB0b29scy9lbWJlZC1pY29uLmNqcyIp
+"""Build the button icon for dsh-power from the user's illustration.
+
+Source of truth:  dsh-power/client/niang-sleep.png   (whatever the user drops there)
+Usage:            python tools/build-icon.py
+
+It only *measures* candidate encodings so we can pick one that keeps the widget
+small; the actual data-URI injection is done by tools/embed-icon.cjs.
+"""
+import os
+import shutil
+import sys
+
+from PIL import Image
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+PLUGIN = os.path.dirname(HERE)
+CLIENT = os.path.join(PLUGIN, "client")
+TARGET = os.path.join(CLIENT, "niang-sleep.png")
+SOURCE = sys.argv[1] if len(sys.argv) > 1 else r"C:\Users\21155\Desktop\shuijiao.png"
+OUT = os.path.join(PLUGIN, "_icon-build")
+
+os.makedirs(CLIENT, exist_ok=True)
+os.makedirs(OUT, exist_ok=True)
+
+if os.path.abspath(SOURCE) != os.path.abspath(TARGET):
+    shutil.copyfile(SOURCE, TARGET)
+
+im = Image.open(TARGET)
+print("source      :", TARGET)
+print("size        :", im.size, "mode", im.mode, "bytes", os.path.getsize(TARGET))
+print("aspect      : %.4f" % (im.width / im.height))
+
+rgb = im.convert("RGB")
+rows = []
+for width in (256, 384, 512):
+    height = max(1, round(width * im.height / im.width))
+    resized = rgb.resize((width, height), Image.LANCZOS)
+    for ext, kw in (("png", {"optimize": True}), ("webp", {"quality": 86, "method": 6})):
+        path = os.path.join(OUT, "niang-%d.%s" % (width, ext))
+        resized.save(path, **kw)
+        size = os.path.getsize(path)
+        rows.append((os.path.basename(path), "%dx%d" % (width, height), size, round(size * 4 / 3)))
+
+print()
+print("%-22s %-10s %9s %10s" % ("file", "pixels", "bytes", "b64 chars"))
+for name, pixels, size, b64 in sorted(rows, key=lambda r: r[2]):
+    print("%-22s %-10s %9d %10d" % (name, pixels, size, b64))
+
+# The one the widget actually inlines: 512px wide (3.2x the 160px chip, so it
+# stays sharp on HiDPI) WebP (40 KB base64 vs 267 KB for the PNG).
+FINAL = os.path.join(CLIENT, "niang-sleep.webp")
+rgb.resize((512, max(1, round(512 * im.height / im.width))), Image.LANCZOS).save(
+    FINAL, "webp", quality=86, method=6
+)
+print()
+print("embedded icon :", FINAL, os.path.getsize(FINAL), "bytes")
+print("next          : node tools/embed-icon.cjs")

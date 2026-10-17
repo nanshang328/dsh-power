@@ -1,1 +1,21 @@
-bm9kZV9tb2R1bGVzLwoqLmxvZwouRFNfU3RvcmUKVGh1bWJzLmRiCgojIGljb24gYnVpbGQgaW50ZXJtZWRpYXRlcyAocmVnZW5lcmF0ZSB3aXRoOiBweXRob24gdG9vbHMvYnVpbGQtaWNvbi5weSkKX2ljb24tYnVpbGQvCgojIFRoZSAxIE1CIHNvdXJjZSBQTkcgaXMgb25seSB0aGUgYnVpbGQgaW5wdXQgZm9yIGNsaWVudC9uaWFuZy1zbGVlcC53ZWJwLCB3aGljaCBpcwojIHdoYXQgYWN0dWFsbHkgc2hpcHMuIEtlZXAgdGhlIHJlcG8gbGlnaHQ7IGFueW9uZSBjYW4gc3dhcCBpbiB0aGVpciBvd24gUE5HIGFuZCBydW4KIyB0b29scy9idWlsZC1pY29uLnB5ICsgdG9vbHMvZW1iZWQtaWNvbi5janMuCmNsaWVudC9uaWFuZy1zbGVlcC5wbmcKCiMgbG9jYWwgYmFja3VwcyB0YWtlbiBiZWZvcmUgaG90LWRlcGxveWluZyBpbnRvIHRoZSBwcm9maWxlCl9iYWNrdXAtKi8KKi5iYWstKgoKIyB0ZXN0YmVkOiBGYWtlRHNoLmV4ZSBpcyBhIGxvY2FsIGNvcHkgb2Ygbm9kZS5leGUgKHNlZSB0ZXN0YmVkL1JFQURNRS5tZCksIGFuZCBlYWNoIHJ1bgojIHdyaXRlcyBpdHMgbG9nL3N0YXR1cyBuZXh0IHRvIHRoZSBzY3JpcHRzCnRlc3RiZWQvRmFrZURzaC5leGUKdGVzdGJlZC8qLmpzb24K
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# icon build intermediates (regenerate with: python tools/build-icon.py)
+_icon-build/
+
+# The 1 MB source PNG is only the build input for client/niang-sleep.webp, which is
+# what actually ships. Keep the repo light; anyone can swap in their own PNG and run
+# tools/build-icon.py + tools/embed-icon.cjs.
+client/niang-sleep.png
+
+# local backups taken before hot-deploying into the profile
+_backup-*/
+*.bak-*
+
+# testbed: FakeDsh.exe is a local copy of node.exe (see testbed/README.md), and each run
+# writes its log/status next to the scripts
+testbed/FakeDsh.exe
+testbed/*.json

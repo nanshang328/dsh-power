@@ -1,1 +1,52 @@
-ewogICJuYW1lIjogImRzaC1wb3dlciIsCiAgInZlcnNpb24iOiAiMC42LjEiLAogICJkZXNjcmlwdGlvbiI6ICJSZXN0YXJ0IGFuZCBzaHV0IGRvd24gRFNIIGZyb20gdGhlIHBhZ2U6IE9ORSBkcmFnZ2FibGUgY2FyZCBpbmplY3RlZCBieSB0aGUgaG9zdCB3aG9zZSBhcnR3b3JrIGNhcnJpZXMgdHdvIGhpdCB6b25lcyAobGVmdCA9IHNodXQgZG93biwgcmlnaHQgPSByZXN0YXJ0KTsgdGhlIGZpcnN0IGNsaWNrIG9ubHkgYXNrcyAodGhlIGNhcmQgdHVybnMgaW50byBhIHllcy9ubyBxdWVzdGlvbiksIHRoZSBzZWNvbmQgY2xpY2sgb24gZWl0aGVyIGhhbGYgKG9yIHRoZSBtaWRkbGUgc2VhbSkgYWN0dWFsbHkgZmlyZXMg4oCUIHR3byBjbGlja3MgYXJlIGFscmVhZHkgdGhlIHNhZmV0eSBjYXRjaCwgc28gdGhlIHBlbmRpbmcgcXVlc3Rpb24gaXMgc3RpY2t5IGFuZCBhIHNlY29uZCBjbGljayBuZXZlciByZS10YXJnZXRzIHRoZSBvdGhlciBhY3Rpb24uIEVzYyBvciBhIGNsaWNrIG91dHNpZGUgY2FuY2Vscy4gUGx1cyBhIG11bHRpLWluc3RhbmNlLXNhZmUgcmVzdGFydCBlbmdpbmUgdGhhdCBzdG9wcyBvbmx5IHRoZSBjdXJyZW50IGluc3RhbmNlJ3MgdHJlZSAobm8gbW9yZSBraWxsaW5nIG90aGVyIERTSCBpbnN0YW5jZXMpLCB3YWl0cyBmb3IgdGhlIHBvcnQgdG8gZnJlZSwgcmVsYXVuY2hlcyBvdXRzaWRlIHRoZSBob3N0J3MgSm9iIE9iamVjdCwgY29uZmlybXMgdGhlIG5ldyBpbnN0YW5jZSBhbnN3ZXJzIG9uIHRoZSBwbHVnaW4ncyBvd24gc3RhdHVzIHJvdXRlICh0aGUgY29yZSAvaGVhbHRoIHJvdXRlIGlzIGJlaGluZCB0aGUgd2ViIHRva2VuLCBzbyBpdCBjYW5ub3QgYmUgdXNlZCksIHdhdGNoZXMgaXQgc3RheSB1cCwgYW5kIGJyaW5ncyB0aGUgbmV3IHdpbmRvdyB0byB0aGUgZm9yZWdyb3VuZCBzbyB5b3UgY2FuIHNlZSB0aGUgcmVzdGFydCBmaW5pc2hlZC4iLAogICJ0eXBlIjogIm1vZHVsZSIsCiAgIm1haW4iOiAiLi9saWIvaW5kZXguanMiLAogICJleHBvcnRzIjogewogICAgIi4iOiB7CiAgICAgICJkZWZhdWx0IjogIi4vbGliL2luZGV4LmpzIgogICAgfSwKICAgICIuL3BhY2thZ2UuanNvbiI6ICIuL3BhY2thZ2UuanNvbiIKICB9LAogICJmaWxlcyI6IFsKICAgICJsaWIiLAogICAgInNjcmlwdHMiLAogICAgImNsaWVudCIsCiAgICAidGVzdCIsCiAgICAidG9vbHMiLAogICAgImNvcmRpcy5wYXRjaC55bWwiLAogICAgIlJFQURNRS5tZCIsCiAgICAiTElDRU5TRSIKICBdLAogICJkc2giOiB7CiAgICAiYnVuZGxlIjogewogICAgICAicGF0Y2giOiAiLi9jb3JkaXMucGF0Y2gueW1sIgogICAgfQogIH0sCiAgIm9zIjogWwogICAgIndpbjMyIgogIF0sCiAgImVuZ2luZXMiOiB7CiAgICAibm9kZSI6ICI+PTIwIgogIH0sCiAgInNjcmlwdHMiOiB7CiAgICAiY2hlY2siOiAibm9kZSAtLWNoZWNrIGxpYi9pbmRleC5qcyAmJiBub2RlIC0tY2hlY2sgY2xpZW50L3dpZGdldC5qcyIKICB9LAogICJrZXl3b3JkcyI6IFsKICAgICJkc2giLAogICAgImRlZXBzZWVrLWhhcm5lc3MiLAogICAgImRzaC1wbHVnaW4iLAogICAgInJlc3RhcnQiLAogICAgInNodXRkb3duIiwKICAgICJwb3dlciIsCiAgICAid2luZG93cyIKICBdLAogICJsaWNlbnNlIjogIk1JVCIsCiAgInJlcG9zaXRvcnkiOiB7CiAgICAidHlwZSI6ICJnaXQiLAogICAgInVybCI6ICJnaXQraHR0cHM6Ly9naXRodWIuY29tL25hbnNoYW5nMzI4L2RzaC1wb3dlci5naXQiCiAgfSwKICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL25hbnNoYW5nMzI4L2RzaC1wb3dlciNyZWFkbWUiCn0K
+{
+  "name": "dsh-power",
+  "version": "0.6.1",
+  "description": "Restart and shut down DSH from the page: ONE draggable card injected by the host whose artwork carries two hit zones (left = shut down, right = restart); the first click only asks (the card turns into a yes/no question), the second click on either half (or the middle seam) actually fires — two clicks are already the safety catch, so the pending question is sticky and a second click never re-targets the other action. Esc or a click outside cancels. Plus a multi-instance-safe restart engine that stops only the current instance's tree (no more killing other DSH instances), waits for the port to free, relaunches outside the host's Job Object, confirms the new instance answers on the plugin's own status route (the core /health route is behind the web token, so it cannot be used), watches it stay up, and brings the new window to the foreground so you can see the restart finished.",
+  "type": "module",
+  "main": "./lib/index.js",
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "scripts",
+    "client",
+    "test",
+    "tools",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "os": [
+    "win32"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node --check lib/index.js && node --check client/widget.js"
+  },
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "dsh-plugin",
+    "restart",
+    "shutdown",
+    "power",
+    "windows"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanshang328/dsh-power.git"
+  },
+  "homepage": "https://github.com/nanshang328/dsh-power#readme"
+}

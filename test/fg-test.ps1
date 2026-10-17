@@ -1,1 +1,43 @@
-IyBQbHVtYmluZyB0ZXN0OiBydW4gdGhlIGV4YWN0IFdpbjMyIHNlcXVlbmNlIGZyb20gcmVzdGFydC1kc2gucHMxIGFnYWluc3QgdGhlIHdpbmRvdwojIHRoYXQgaXMgQUxSRUFEWSBpbiB0aGUgZm9yZWdyb3VuZCAoU2V0Rm9yZWdyb3VuZFdpbmRvdyBvbiBpdCBtdXN0IHN1Y2NlZWQgYW5kIHN0YXkpLgokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gJ0NvbnRpbnVlJwpBZGQtVHlwZSAtVHlwZURlZmluaXRpb24gQCcKdXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uUnVudGltZS5JbnRlcm9wU2VydmljZXM7Cm5hbWVzcGFjZSBEc2hQb3dlciB7CiAgcHVibGljIHN0YXRpYyBjbGFzcyBXaW4zMiB7CiAgICBbRGxsSW1wb3J0KCJ1c2VyMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh0ZXJuIGJvb2wgU2V0Rm9yZWdyb3VuZFdpbmRvdyhJbnRQdHIgaFduZCk7CiAgICBbRGxsSW1wb3J0KCJ1c2VyMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh0ZXJuIGJvb2wgU2hvd1dpbmRvdyhJbnRQdHIgaFduZCwgaW50IG5DbWRTaG93KTsKICAgIFtEbGxJbXBvcnQoInVzZXIzMi5kbGwiKV0gcHVibGljIHN0YXRpYyBleHRlcm4gYm9vbCBCcmluZ1dpbmRvd1RvVG9wKEludFB0ciBoV25kKTsKICAgIFtEbGxJbXBvcnQoInVzZXIzMi5kbGwiKV0gcHVibGljIHN0YXRpYyBleHRlcm4gYm9vbCBJc0ljb25pYyhJbnRQdHIgaFduZCk7CiAgICBbRGxsSW1wb3J0KCJ1c2VyMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh0ZXJuIEludFB0ciBHZXRGb3JlZ3JvdW5kV2luZG93KCk7CiAgICBbRGxsSW1wb3J0KCJ1c2VyMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh0ZXJuIHVpbnQgR2V0V2luZG93VGhyZWFkUHJvY2Vzc0lkKEludFB0ciBoV25kLCBvdXQgdWludCBwcm9jZXNzSWQpOwogICAgW0RsbEltcG9ydCgidXNlcjMyLmRsbCIpXSBwdWJsaWMgc3RhdGljIGV4dGVybiBib29sIEF0dGFjaFRocmVhZElucHV0KHVpbnQgaWRBdHRhY2gsIHVpbnQgaWRBdHRhY2hUbywgYm9vbCBmQXR0YWNoKTsKICAgIFtEbGxJbXBvcnQoInVzZXIzMi5kbGwiKV0gcHVibGljIHN0YXRpYyBleHRlcm4gdm9pZCBrZXliZF9ldmVudChieXRlIGJWaywgYnl0ZSBiU2NhbiwgdWludCBkd0ZsYWdzLCBJbnRQdHIgZHdFeHRyYUluZm8pOwogICAgW0RsbEltcG9ydCgia2VybmVsMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh0ZXJuIHVpbnQgR2V0Q3VycmVudFRocmVhZElkKCk7CiAgfQp9CidACiJhZGQtdHlwZSBPSyIKJGhhbmRsZSA9IFtEc2hQb3dlci5XaW4zMl06OkdldEZvcmVncm91bmRXaW5kb3coKQoiZmcgaGFuZGxlID0gJGhhbmRsZSIKaWYgKCRoYW5kbGUgLWVxIFtJbnRQdHJdOjpaZXJvKSB7ICdGQUlMOiBubyBmb3JlZ3JvdW5kIHdpbmRvdyc7IGV4aXQgMSB9CiRmZ1BpZCA9IFt1aW50MzJdMAokZmdUaHJlYWQgPSBbRHNoUG93ZXIuV2luMzJdOjpHZXRXaW5kb3dUaHJlYWRQcm9jZXNzSWQoJGhhbmRsZSwgW3JlZl0kZmdQaWQpCiRteVRocmVhZCA9IFtEc2hQb3dlci5XaW4zMl06OkdldEN1cnJlbnRUaHJlYWRJZCgpCiJmZyBwaWQ9JGZnUGlkIGZnVGhyZWFkPSRmZ1RocmVhZCBteVRocmVhZD0kbXlUaHJlYWQiCiRhdHRhY2hlZCA9ICRmYWxzZQppZiAoJGZnVGhyZWFkIC1uZSAwIC1hbmQgJGZnVGhyZWFkIC1uZSAkbXlUaHJlYWQpIHsKICAkYXR0YWNoZWQgPSBbRHNoUG93ZXIuV2luMzJdOjpBdHRhY2hUaHJlYWRJbnB1dCgkbXlUaHJlYWQsICRmZ1RocmVhZCwgJHRydWUpCn0KIkQgYXR0YWNoZWQ9JGF0dGFjaGVkIgpbRHNoUG93ZXIuV2luMzJdOjprZXliZF9ldmVudCgweDEyLCAwLCAwLCBbSW50UHRyXTo6WmVybykKW0RzaFBvd2VyLldpbjMyXTo6a2V5YmRfZXZlbnQoMHgxMiwgMCwgMiwgW0ludFB0cl06Olplcm8pCiJpY29uaWMgPSAiICsgW0RzaFBvd2VyLldpbjMyXTo6SXNJY29uaWMoJGhhbmRsZSkKImJ3dCA9ICIgKyBbRHNoUG93ZXIuV2luMzJdOjpCcmluZ1dpbmRvd1RvVG9wKCRoYW5kbGUpCiRvayA9IFtEc2hQb3dlci5XaW4zMl06OlNldEZvcmVncm91bmRXaW5kb3coJGhhbmRsZSkKaWYgKCRhdHRhY2hlZCkgeyAkbnVsbCA9IFtEc2hQb3dlci5XaW4zMl06OkF0dGFjaFRocmVhZElucHV0KCRteVRocmVhZCwgJGZnVGhyZWFkLCAkZmFsc2UpIH0KInNmdyA9ICRvayIKJHN0aWxsID0gW0RzaFBvd2VyLldpbjMyXTo6R2V0Rm9yZWdyb3VuZFdpbmRvdygpCiJmZyBhZnRlciA9ICRzdGlsbCIKaWYgKCRvayAtYW5kICgkc3RpbGwgLWVxICRoYW5kbGUpKSB7ICdQQVNTJzsgZXhpdCAwIH0gZWxzZSB7ICdGQUlMJzsgZXhpdCAxIH0K
+# Plumbing test: run the exact Win32 sequence from restart-dsh.ps1 against the window
+# that is ALREADY in the foreground (SetForegroundWindow on it must succeed and stay).
+$ErrorActionPreference = 'Continue'
+Add-Type -TypeDefinition @'
+using System;
+using System.Runtime.InteropServices;
+namespace DshPower {
+  public static class Win32 {
+    [DllImport("user32.dll")] public static extern bool SetForegroundWindow(IntPtr hWnd);
+    [DllImport("user32.dll")] public static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
+    [DllImport("user32.dll")] public static extern bool BringWindowToTop(IntPtr hWnd);
+    [DllImport("user32.dll")] public static extern bool IsIconic(IntPtr hWnd);
+    [DllImport("user32.dll")] public static extern IntPtr GetForegroundWindow();
+    [DllImport("user32.dll")] public static extern uint GetWindowThreadProcessId(IntPtr hWnd, out uint processId);
+    [DllImport("user32.dll")] public static extern bool AttachThreadInput(uint idAttach, uint idAttachTo, bool fAttach);
+    [DllImport("user32.dll")] public static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, IntPtr dwExtraInfo);
+    [DllImport("kernel32.dll")] public static extern uint GetCurrentThreadId();
+  }
+}
+'@
+"add-type OK"
+$handle = [DshPower.Win32]::GetForegroundWindow()
+"fg handle = $handle"
+if ($handle -eq [IntPtr]::Zero) { 'FAIL: no foreground window'; exit 1 }
+$fgPid = [uint32]0
+$fgThread = [DshPower.Win32]::GetWindowThreadProcessId($handle, [ref]$fgPid)
+$myThread = [DshPower.Win32]::GetCurrentThreadId()
+"fg pid=$fgPid fgThread=$fgThread myThread=$myThread"
+$attached = $false
+if ($fgThread -ne 0 -and $fgThread -ne $myThread) {
+  $attached = [DshPower.Win32]::AttachThreadInput($myThread, $fgThread, $true)
+}
+"D attached=$attached"
+[DshPower.Win32]::keybd_event(0x12, 0, 0, [IntPtr]::Zero)
+[DshPower.Win32]::keybd_event(0x12, 0, 2, [IntPtr]::Zero)
+"iconic = " + [DshPower.Win32]::IsIconic($handle)
+"bwt = " + [DshPower.Win32]::BringWindowToTop($handle)
+$ok = [DshPower.Win32]::SetForegroundWindow($handle)
+if ($attached) { $null = [DshPower.Win32]::AttachThreadInput($myThread, $fgThread, $false) }
+"sfw = $ok"
+$still = [DshPower.Win32]::GetForegroundWindow()
+"fg after = $still"
+if ($ok -and ($still -eq $handle)) { 'PASS'; exit 0 } else { 'FAIL'; exit 1 }

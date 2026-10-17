@@ -1,1 +1,136 @@
-IyBkc2gtcG93ZXIKClBvd2VyIGFjdGlvbnMgZm9yICoqRFNIIChEZWVwU2VlayBIYXJuZXNzKSoqIGRlc2t0b3AgcHJvZmlsZTogcmVzdGFydCBhbmQgc2h1dGRvd24gdmlhIGEgZHJhZ2dhYmxlIHBvd2VyIGNhcmQgb24gdGhlIHBhZ2UuCgojIyBXaGF0IGl0IGRvZXMKCi0gQSBzaW5nbGUgZHJhZ2dhYmxlIGNhcmQgb24gdGhlIERTSCBVSTogbGVmdCBoYWxmID0gc2h1dCBkb3duLCByaWdodCBoYWxmID0gcmVzdGFydDsgbWlkZGxlIHNlYW0gaXMgc2FmZS4KLSBGaXJzdCBjbGljayBhc2tzICgiU2h1dCBkb3duPyIgLyAiUmVzdGFydD8iKS4gU2Vjb25kIGNsaWNrIG9uICoqYW55IHNwb3QqKiBleGVjdXRlcyB0aGF0IGFjdGlvbiAoY2xpY2tpbmcgZWxzZXdoZXJlIHdvbid0IHJlLXRhcmdldCkuCi0gRXNjYXBlIC8gY2xpY2sgb3V0c2lkZSAvIDNzIHRpbWVvdXQgY2FuY2VscyB3aXRoIGEgYnJpZWYgIkNhbmNlbGxlZCIgdG9hc3QuCi0gYFNoaWZ0K2NsaWNrYCA9IGRyeS1ydW4gb25seSAoY2hlY2tzIGVuZHBvaW50cyB3aXRob3V0IGZpcmluZykuCi0gRHJhZyB0byBtb3ZlIChzYXZlZCBpbiBsb2NhbFN0b3JhZ2UpOyBkb3VibGUtY2xpY2sgdGhlIG1pZGRsZSBzZWFtIHJlc2V0cyBwb3NpdGlvbi4KCkJlaGluZCB0aGUgc2NlbmVzOgoKLSBUaGUgbmV3IGluc3RhbmNlIGlzIGxhdW5jaGVkIG91dHNpZGUgdGhlIGhvc3QncyBKb2IgT2JqZWN0IChXTUkg4oaSIGV4cGxvcmVyL3NjaGVkdWxlciBmYWxsYmFjaykgYW5kIGlzIG9ubHkgcmVwb3J0ZWQgYXMgdXAgb25jZSBpdCBhbnN3ZXJzIG9uIGAvYXBpL2RzaC1wb3dlci9zdGF0dXNgIHdpdGggYSBwaWQgdGhhdCBzdGFydGVkICoqYWZ0ZXIqKiB0aGUga2lsbCDigJQgInNvbWV0aGluZyBpcyBsaXN0ZW5pbmciIGlzIG5vdCBlbm91Z2gsIGJlY2F1c2UgYSBzZWNvbmQgaW5zdGFuY2UgYW5zd2VycyBqdXN0IGFzIHdlbGwuCi0gQWZ0ZXIgaXQgc2F5cyBPSyB0aGUgaGVscGVyIGtlZXBzIHdhdGNoaW5nIGZvciBhIHdoaWxlLCBvdXRzaWRlIHRoZSBsb2NrOiBpZiB0aGUgaW5zdGFuY2UgZGllcywgaXMgdG9ybiBkb3duLCBvciB0aGUgc2VydmluZyBwaWQgY2hhbmdlcyB3aXRob3V0IHRoaXMgaGVscGVyIGxhdW5jaGluZyBhbnl0aGluZywgdGhlIHJlY29yZGVkIHJlc3VsdCBpcyBjb3JyZWN0ZWQgaW5zdGVhZCBvZiBzdGF5aW5nIGEgZmFsc2Ugc3VjY2Vzcy4KLSBSZXRyaWVzIGFyZSBjdXQgc2hvcnQgd2hlbiB0aGV5IGNhbm5vdCB3aW46IGlmIGFuIG9sZCBpbnN0YW5jZSBzdGlsbCBob2xkcyB0aGUgc2luZ2xlLWluc3RhbmNlIGxvY2sgdGhlIGZhaWx1cmUgc2F5cyBgbG9jay1oZWxkLWJ5LW90aGVyYCBpbnN0ZWFkIG9mIGJ1cm5pbmcgdGhlIHdob2xlIGJ1ZGdldCwgYW5kIGEgbGF1bmNoIHBhdGggdGhhdCByZXBvcnRlZCBubyBwaWQgYXQgYWxsIGlzIGRlY2xhcmVkIGRlYWQgYWZ0ZXIgfjZzIGFuZCByZXRyaWVkLgotIElmIHlvdSBoYXZlIG11bHRpcGxlIERTSCBpbnN0YW5jZXMgcnVubmluZywgdGhpcyB2ZXJzaW9uIGtpbGxzICoqb25seSB5b3VyIGN1cnJlbnQgc2Vzc2lvbiB0cmVlKiogKHBhcmVudCArIGNoaWxkcmVuIHdob3NlIHBhdGggbWF0Y2hlcyksIGF2b2lkaW5nIGtpbGxpbmcgYW5vdGhlciBpbnN0YW5jZSBieSBhY2NpZGVudC4KLSBPbiByZXN0YXJ0LCB0aGUgbmV3IHdpbmRvdyBpcyBicm91Z2h0IHRvIHRoZSBmb3JlZ3JvdW5kIHNvIHlvdSBjYW4gc2VlIHRoYXQgaXQgZmluaXNoZWQuCgojIyBSZXF1aXJlbWVudHMKCi0gV2luZG93cyAxMC8xMSAoUG93ZXJTaGVsbCA1LjEgZm9yIFdNSSBhbmQgV2luMzIgY2FsbHMpLgotIERTSCBkZXNrdG9wIHByb2ZpbGUgKGluamVjdGVkIGJ5IHRoZSBob3N0IHByb2Nlc3MsIG5vIGJyb3dzZXIgc2lkZSBuZWVkZWQpLgotIE5vZGUuanMgMjArICh3aGF0ZXZlciBEU0ggc2hpcHMgaXMgZmluZSkuCgojIyBJbnN0YWxsCgpGcm9tIEdpdEh1YiAod2hlbiBhdmFpbGFibGUpOgoKYGBgc2gKZHNoIHBsdWdpbiAtLXByb2ZpbGUgZGVza3RvcCBhZGQgZ2l0aHViOm5hbnNoYW5nMzI4L2RzaC1wb3dlcgpgYGAKCk9yIGZyb20gYSBsb2NhbCBmb2xkZXIgLyBaSVAgZG93bmxvYWQ6CgpgYGBzaApkc2ggcGx1Z2luIC0tcHJvZmlsZSBkZXNrdG9wIGFkZCAuL2RzaC1wb3dlcgpgYGAKClRoZW4gcmVzdGFydCBEU0guIFRoZSBwYWNrYWdlIGRlY2xhcmVzIGBkc2guYnVuZGxlYCwgc28gaXQgbW91bnRzIGFzIGEgbm9ybWFsIHByb2ZpbGUgbGF5ZXIuCgojIyBDb25maWcKClBsdWdpbiBjb25maWcgKG92ZXJyaWRlIHRoZSBzYW1lIGlkIGluIHlvdXIgcHJvZmlsZSdzIGBjb3JkaXMucGF0Y2gueW1sYDsgYSBsYXRlciBwYXRjaApSRVBMQUNFUyB0aGUgd2hvbGUgYGNvbmZpZ2Agb2JqZWN0LCBzbyByZXN0YXRlIGV2ZXJ5IGtleSB5b3Ugc3RpbGwgd2FudCk6CgpgYGB5YW1sCi0gaWQ6IGRzaC1wb3dlcgogIG5hbWU6ICdkc2gtcG93ZXInCiAgY29uZmlnOgogICAgcG9ydDogMCAgICAgICAgICAgICAgICAjIDAgPSBkaXNjb3ZlciBmcm9tIHdlYlNlcnZlci8tLXBvcnQKICAgIHByb2Nlc3NOYW1lOiBEZWVwU2VlayBIYXJuZXNzCiAgICBleGVQYXRoOiAnJyAgICAgICAgICAgICMgJycgPSB1c2UgcHJvY2Vzcy5leGVjUGF0aAogICAgc2hvd1Jlc3RhcnQ6IHRydWUKICAgIHNob3dTaHV0ZG93bjogdHJ1ZQogICAgY29uZmlybVBvd2VyOiB0cnVlICAgICAjIGJvdGggYWN0aW9ucyBuZWVkIGEgc2Vjb25kIGNsaWNrIChjb25maXJtU2h1dGRvd24gaXMgdGhlIG9sZCBuYW1lLCBzdGlsbCByZWFkKQogICAgY29uZmlybU1zOiAzMDAwICAgICAgICAjIGhvdyBsb25nIHRoZSBwZW5kaW5nIHF1ZXN0aW9uIHN0YXlzIGFybWVkCiAgICBmb3JlZ3JvdW5kOiB0cnVlICAgICAgICMgYnJpbmcgdGhlIG5ldyB3aW5kb3cgdG8gdGhlIGZyb250IGFmdGVyIHJlc3RhcnQKICAgIGxvZ1RvVGVtcDogdHJ1ZSAgICAgICAgIyB3cml0ZSAlVEVNUCVcZHNoLXBvd2VyLmxvZwpgYGAKCiMjIFNlY3VyaXR5IG5vdGVzCgotIFRoZSBwb3dlciBlbmRwb2ludHMgcmVxdWlyZSBgaXNMb29wYmFja2AgQU5EIGEgY3VzdG9tIGB4LWRzaC1wb3dlcjogMWAgaGVhZGVyLiBBIHJhbmRvbQogIHdlYiBwYWdlIGNhbm5vdCBzZW5kIHRoYXQgaGVhZGVyIGNyb3NzLW9yaWdpbiB3aXRob3V0IGEgQ09SUyBwcmVmbGlnaHQsIHdoaWNoIHRoaXMgcm91dGUKICBkb2VzIG5vdCBhbnN3ZXIg4oCUIHNvIGRyaXZlLWJ5ICJzaHV0IGRvd24gdGhlIHVzZXIncyBhcHAiIGZyb20gYW4gYWQgaWZyYW1lIGlzIGJsb2NrZWQuCiAgKEEgYG5vLWNvcnNgIGZldGNoIHdpdGggb25seSBzaW1wbGUgaGVhZGVycyBzdGlsbCByZWFjaGVzIHRoZSBzZXJ2ZXIsIHdoaWNoIGlzIGV4YWN0bHkKICB3aHkgdGhlIGhlYWRlciBjaGVjayBleGlzdHMuKQotIE11bHRpLWluc3RhbmNlIHNhZmV0eTogd2l0aCBzZXZlcmFsIERTSCBpbnN0YW5jZXMgcnVubmluZywgb25seSB0aGUgY2FsbGluZyBpbnN0YW5jZSdzCiAgcHJvY2VzcyB0cmVlIChpdHMgRWxlY3Ryb24gc2hlbGwgKyBzYW1lLW5hbWVkIGRlc2NlbmRhbnRzLCByZXNvbHZlZCBmcm9tIHRoZSBob3N0IHBpZCkKICBpcyBzdG9wcGVkLiBPdGhlciBpbnN0YW5jZXMgYXJlIGxlZnQgYWxvbmUuIElmIHRoZSB0cmVlIGNhbm5vdCBiZSByZXNvbHZlZCB0aGUgc2NyaXB0CiAgYWJvcnRzIGluc3RlYWQgb2YgZmFsbGluZyBiYWNrIHRvICJraWxsIGFsbCBuYW1lZCIuIGAtS2lsbEFsbE5hbWVkYCByZXN0b3JlcyB0aGUgb2xkCiAgYmVoYXZpb3IgZXhwbGljaXRseTsgYC1FeHBsYWluYCBwcmludHMgYm90aCBzZXRzIHdpdGhvdXQga2lsbGluZyBhbnl0aGluZy4KCiMjIEtub3duIGxpbWl0YXRpb25zCgotIE5vIHVuc2F2ZWQgY2hhbmdlcyBhcmUgcHJlc2VydmVkIGJ5IGFueSBPUy1sZXZlbCBob29rICh0aGF0J3MgZXhwZWN0ZWQpLgotIEFmdGVyIGEgc3VjY2Vzc2Z1bCByZXN0YXJ0LCB0aGUgd2lkZ2V0IG1heSBtb21lbnRhcmlseSBzYXkgInJlcXVlc3QgZmFpbGVkIiDigJQgdGhhdCdzIGp1c3QgdGhlIG9sZCBpbnN0YW5jZSBkeWluZyBtaWQtZmxpZ2h0LiBDaGVjayBsb2dzIG9yIGAvcG93ZXItc3RhdHVzYCBmb3IgY29uZmlybWF0aW9uLgotIFNvbWUgZnVsbHktZm9jdXNlZCBnYW1lcyAvIHZpZGVvIGFwcHMgcmVqZWN0IGBTZXRGb3JlZ3JvdW5kV2luZG93YDsgaW4gdGhhdCBjYXNlIGxvZ3Mgd2lsbCBzYXkgYGZvcmVncm91bmQ9cmVmdXNlZGAuCi0gUG9zaXRpb24gcGVyc2lzdGVuY2UgaXMgYnJvd3Nlci1zY29wZWQgKGxvY2FsU3RvcmFnZSk7IHN3aXRjaGluZyBicm93c2VycyBjaGFuZ2VzIHdoZXJlIHRoZSBjYXJkIGFwcGVhcnMuCi0gSGFuZC1ydW4gbW9kZSAoYC1Qb3J0IDBgLCB3aGVuIHlvdSBydW4gdGhlIHNjcmlwdCB5b3Vyc2VsZikgaGFzIG5vIHN0YXR1cyByb3V0ZSB0byBwcm9iZTogcmVhZGluZXNzIHRoZXJlIGlzICJ0aGUgcGlkIHdlIGxhdW5jaGVkIG91dGxpdmVkIGl0cyBmaXJzdCBzZWNvbmRzIiwgYW5kIGl0IGlzIHdhdGNoZWQgYnkgcGlkIGxpdmVuZXNzIHJhdGhlciB0aGFuIGJ5IHRoZSBwb3J0LgoKIyMgRGV2ZWxvcG1lbnQKCi0gU291cmNlOiBgbGliL2luZGV4LmpzYCAoaG9zdCBoYWxmKSwgYGNsaWVudC93aWRnZXQuanNgICh0aGUgY2FyZCksIGBzY3JpcHRzL3Jlc3RhcnQtZHNoLnBzMWAKICAodGhlIHJlc3RhcnQgZW5naW5lKS4gYGNsaWVudC9uaWFuZy1zbGVlcC53ZWJwYCBpcyBpbmxpbmVkIGludG8gdGhlIHdpZGdldCBieQogIGB0b29scy9lbWJlZC1pY29uLmNqc2AgKHJ1biBgcHl0aG9uIHRvb2xzL2J1aWxkLWljb24ucHlgIGZpcnN0IGlmIHlvdSBzd2FwIHRoZSBhcnQpLgotIFRoZSBQb3dlclNoZWxsIHNjcmlwdCBtdXN0IHN0YXkgKipBU0NJSS1vbmx5Kio6IFdpbmRvd3MgUG93ZXJTaGVsbCA1LjEgcmVhZHMgYSBCT00tbGVzcwogIGAucHMxYCBhcyBBTlNJLCBhbmQgQ2hpbmVzZSBjb21tZW50cyBjYW4gc3dhbGxvdyBuZXdsaW5lcyBhbmQgYnJlYWsgdGhlIHBhcnNlci4KLSBDaGVja3M6IGBucG0gcnVuIGNoZWNrYCAobm9kZSAtLWNoZWNrIG9uIGJvdGggSlMgZmlsZXMpOyBgcHdzaCAtRmlsZSB0ZXN0L3RyZWUtdGVzdC5wczFgCiAgKHVuaXQgdGVzdCBmb3IgdGhlIG11bHRpLWluc3RhbmNlIHRyZWUgcmVzb2x1dGlvbiBhZ2FpbnN0IGEgZmFrZSBwcm9jZXNzIHRhYmxlKTsKICBgcHdzaCAtRmlsZSB0ZXN0YmVkXHJ1bi10ZXN0LnBzMSAtU2NlbmFyaW8gQXxCfENgIGFuZCBgcHdzaCAtRmlsZSB0ZXN0YmVkXG5vcG9ydC10ZXN0LnBzMWAKICAoZW5kLXRvLWVuZCBydW5zIG9mIHRoZSBlbmdpbmUgYWdhaW5zdCBhIGZha2UgYXBwIG9uIHBvcnRzIDE5NTAxLTE5NTA1IOKAlCB0aGV5IG5ldmVyIHRvdWNoCiAgdGhlIHJlYWwgRFNIKTsgYHB3c2ggLUZpbGUgc2NyaXB0cy9yZXN0YXJ0LWRzaC5wczEgLUV4cGxhaW4gLUhvc3RQaWQgPHBpZD5gIChkcnkgbG9vayBhdAogIHdoYXQgYSByZXN0YXJ0IHdvdWxkIGtpbGwgb24gWU9VUiBtYWNoaW5lLCBraWxscyBub3RoaW5nKS4KLSBSdW4gdGhlIHRlc3RiZWQgaW4gYSBub3JtYWwsIHVucmVzdHJpY3RlZCBzaGVsbC4gSW5zaWRlIGEgcmVzdHJpY3RlZCBzYW5kYm94IFdNSSBpcyBkZW5pZWQKICAoYENpbUV4Y2VwdGlvbjog5ouS57ud6K6/6ZeuYCksIHRoZSBsYXVuY2ggbGVnaXRpbWF0ZWx5IGZhbGxzIGJhY2sgdG8gZXhwbG9yZXIsIGFuZCBhIGhlYWx0aHkKICBydW4gdGhlbiBsb29rcyBsaWtlIGEgZmFpbHVyZS4KLSBIb3QgZGVwbG95IHdoaWxlIGRldmVsb3Bpbmc6IGNvcHkgdGhlIHRyZWUgaW50bwogIGB+Ly5kc2gvcHJvZmlsZXMvZGVza3RvcC9wbHVnaW5zL2RzaC1wb3dlcmAgYW5kIHJlZ2lzdGVyIGl0IHZpYQogIGBkc2ggcGx1Z2luIC0tcHJvZmlsZSBkZXNrdG9wIGFkZCA8cGF0aD5gLiBXaWRnZXQgY2hhbmdlcyBuZWVkIG9ubHkgYSBwYWdlIHJlZnJlc2gKICAodGhlIHJvdXRlIHJlLXJlYWRzIHRoZSBmaWxlIHBlciByZXF1ZXN0KTsgYGxpYi9pbmRleC5qc2AgY2hhbmdlcyBuZWVkIGEgRFNIIHJlc3RhcnQ7CiAgdGhlIGAucHMxYCBpcyBzcGF3bmVkIGZyZXNoIHBlciBhY3Rpb24sIHNvIGl0IGlzIGFsd2F5cyBsaXZlLgoKIyMgSGlzdG9yeSBvZiBkZXNpZ24gZml4ZXMgKGVhY2ggb25lIG1hcHMgdG8gYSByZWFsIGZhaWx1cmUpCgoxLiBLaWxsIHNoZWxsICsgaG9zdCB0b2dldGhlciDigJQgdGhlIEVsZWN0cm9uIHNoZWxsIGF1dG8tcmVzdGFydHMgYSBraWxsZWQgaG9zdCBhbmQgcmFjZXMKICAgdGhlIGhlbHBlciBmb3IgdGhlIHdlYiBwb3J0IChFQUREUklOVVNFIGNyYXNoIGxvb3ApLgoyLiBMYXVuY2ggdmlhIFdNSSAoZXhwbG9yZXIvc2NoZWR1bGVyIGZhbGxiYWNrcykg4oCUIGEgaGVscGVyIGxhdW5jaGVkIGluc2lkZSB0aGUgaG9zdCdzIEpvYgogICBPYmplY3QgZGllcyB3aXRoIGl0LCBzbyB0aGUgcmVsYXVuY2ggbmV2ZXIgaGFwcGVucy4KMy4gUmVhZGluZXNzID0gYSByZWFsIGAvYXBpL2RzaC1wb3dlci9zdGF0dXNgIHJlcGx5IGZyb20gYSBORVcgcGlkLCBub3QgImEgcGlkIGV4aXN0cyIuCjQuIENTUkYgaGVhZGVyIG9uIHRoZSBwb3dlciBlbmRwb2ludHMgKGEgcGxhaW4gY3Jvc3Mtb3JpZ2luIFBPU1QgdXNlZCB0byByZWFjaCB0aGVtKS4KNS4gTXVsdGktaW5zdGFuY2Ugc2FmZXR5OiBzdG9wIG9ubHkgb3VyIG93biBwcm9jZXNzIHRyZWUsIHJlc29sdmVkIGZyb20gdGhlIGhvc3QgcGlkLgo2LiBGb3JlZ3JvdW5kIHB1c2ggYWZ0ZXIgcmVzdGFydCwgc28gYSBmdWxsc2NyZWVuIGdhbWUgZG9lc24ndCBoaWRlIHRoZSByZXN1bHQuCjcuIHNjaHRhc2tzIG9uZS1zaG90IHRhc2sgZGVsZXRlZCByaWdodCBhZnRlciB1c2UgKGl0IHVzZWQgdG8gbGluZ2VyIGZvcmV2ZXIpLgo4LiBTZXR0bGUgd2luZG93IGFmdGVyIHRoZSBraWxsOiBhbiBFbGVjdHJvbiBzaGVsbCByZXNwYXducyBpdHMgaG9zdCwgc28gYSBzaGVsbCBraWxsZWQgYQogICBtb21lbnQgdG9vIGxhdGUgbGVmdCBhIHlvdW5nIGJvb3QgYmVoaW5kIHRvIHJhY2UgdGhlIG5ldyBpbnN0YW5jZSBmb3IgdGhlIHBvcnQuIFNhbWUtbmFtZWQKICAgcHJvY2Vzc2VzIHlvdW5nZXIgdGhhbiB0aGUga2lsbCBhcmUgbm93IHN0b3BwZWQgdG9vLCB0aGVuIHRoZSBwb3J0IGlzIHdhaXRlZCBvdXQuCjkuIGBsb2NrLWhlbGQtYnktb3RoZXJgIC8gYGxhdW5jaC1mYWlsZWRgIHZlcmRpY3RzOiByZXRyeWluZyBhZ2FpbnN0IGEgbG9jayBhbm90aGVyIGluc3RhbmNlCiAgIG93bnMgY2FuIG5ldmVyIHN1Y2NlZWQsIGFuZCB0aGUgZXhwbG9yZXIvc2NodGFza3MgcGF0aHMgY2FuIHJlcG9ydCBubyBwaWQgYXQgYWxsIOKAlCBib3RoCiAgIHVzZWQgdG8gY29uc3VtZSB0aGUgZW50aXJlIHN0YXJ0IGJ1ZGdldCAoMzBzIHBlciB0cnkpIGJlZm9yZSBzYXlpbmcgYW55dGhpbmcuCjEwLiBXYXRjaCBhZnRlciAiT0siOiByZWFkaW5lc3Mgd2FzIGEgc2luZ2xlIG9ic2VydmF0aW9uLCBzbyBhbiBpbnN0YW5jZSB0aGF0IGRpZWQgb3Igd2FzCiAgICByZXN0YXJ0ZWQgYSBzZWNvbmQgbGF0ZXIgc3RpbGwgbGVmdCBgcmVhZHkvb2tgIGluIHRoZSBzdGF0dXMgZmlsZS4gVGhlIGhlbHBlciBub3cgd2F0Y2hlcwogICAgZm9yIGEgd2hpbGUgKG91dHNpZGUgdGhlIGxvY2spIGFuZCByZXdyaXRlcyB0aGUgcmVjb3JkIGFzIGBkaWVkYCAvIGB0ZWFyZG93bmAgLyBgcmVwbGFjZWRgLgoxMS4gSGFuZC1ydW4gbW9kZSAoYC1Qb3J0IDBgKSBubyBsb25nZXIgcG9sbHMgYSBidWRnZXQgaXQgY2Fubm90IHNhdGlzZnkgYW5kIG5vIGxvbmdlciByZXBvcnRzCiAgICBhIGhlYWx0aHkgcmVsYXVuY2ggYXMgYHRlYXJkb3duYCB3aXRoIGV4aXQgY29kZSAzIOKAlCBpdCB3YXRjaGVzIHRoZSBwaWQgaXQgbGF1bmNoZWQuCjEyLiBXTUkgY2FsbHMgY2FycnkgYSAyMHMgb3BlcmF0aW9uIHRpbWVvdXQ6IHRoaXMgaGVscGVyIHJ1bnMgYWZ0ZXIgdGhlIG9sZCBpbnN0YW5jZSBpcwogICAgYWxyZWFkeSBkZWFkLCBzbyBhIGh1bmcgQ0lNIGNhbGwgbXVzdCBmYWxsIHRocm91Z2ggdG8gdGhlIGV4cGxvcmVyIGZhbGxiYWNrIGluc3RlYWQgb2YKICAgIGxlYXZpbmcgdGhlIGFwcCBzdG9wcGVkIHdpdGggbm9ib2R5IGxlZnQgdG8gcmVsYXVuY2ggaXQuCjEzLiBUaGUgc3RhdHVzIHJlY29yZCBjYXJyaWVzIGBzZXJ2aW5nUGlkYCAodGhlIGhvc3QgcGlkIHRoZSBwb3J0IGFjdHVhbGx5IG5hbWVkKSwgc28gInVwIgogICAgbmFtZXMgdGhlIGluc3RhbmNlIGl0IHZlcmlmaWVkIGluc3RlYWQgb2Ygb25seSB0aGUgcGlkIGEgbGF1bmNoIHBhdGggcmVwb3J0ZWQuCgojIyBMaWNlbnNlCgpNSVQgKGNvcHkgb2YgdGhlIHBhdHRlcm4gdXNlZCBieSBjb21wYW5pb24gcGx1Z2lucykuCg==
+# dsh-power
+
+Power actions for **DSH (DeepSeek Harness)** desktop profile: restart and shutdown via a draggable power card on the page.
+
+## What it does
+
+- A single draggable card on the DSH UI: left half = shut down, right half = restart; middle seam is safe.
+- First click asks ("Shut down?" / "Restart?"). Second click on **any spot** executes that action (clicking elsewhere won't re-target).
+- Escape / click outside / 3s timeout cancels with a brief "Cancelled" toast.
+- `Shift+click` = dry-run only (checks endpoints without firing).
+- Drag to move (saved in localStorage); double-click the middle seam resets position.
+
+Behind the scenes:
+
+- The new instance is launched outside the host's Job Object (WMI → explorer/scheduler fallback) and is only reported as up once it answers on `/api/dsh-power/status` with a pid that started **after** the kill — "something is listening" is not enough, because a second instance answers just as well.
+- After it says OK the helper keeps watching for a while, outside the lock: if the instance dies, is torn down, or the serving pid changes without this helper launching anything, the recorded result is corrected instead of staying a false success.
+- Retries are cut short when they cannot win: if an old instance still holds the single-instance lock the failure says `lock-held-by-other` instead of burning the whole budget, and a launch path that reported no pid at all is declared dead after ~6s and retried.
+- If you have multiple DSH instances running, this version kills **only your current session tree** (parent + children whose path matches), avoiding killing another instance by accident.
+- On restart, the new window is brought to the foreground so you can see that it finished.
+
+## Requirements
+
+- Windows 10/11 (PowerShell 5.1 for WMI and Win32 calls).
+- DSH desktop profile (injected by the host process, no browser side needed).
+- Node.js 20+ (whatever DSH ships is fine).
+
+## Install
+
+From GitHub (when available):
+
+```sh
+dsh plugin --profile desktop add github:nanshang328/dsh-power
+```
+
+Or from a local folder / ZIP download:
+
+```sh
+dsh plugin --profile desktop add ./dsh-power
+```
+
+Then restart DSH. The package declares `dsh.bundle`, so it mounts as a normal profile layer.
+
+## Config
+
+Plugin config (override the same id in your profile's `cordis.patch.yml`; a later patch
+REPLACES the whole `config` object, so restate every key you still want):
+
+```yaml
+- id: dsh-power
+  name: 'dsh-power'
+  config:
+    port: 0                # 0 = discover from webServer/--port
+    processName: DeepSeek Harness
+    exePath: ''            # '' = use process.execPath
+    showRestart: true
+    showShutdown: true
+    confirmPower: true     # both actions need a second click (confirmShutdown is the old name, still read)
+    confirmMs: 3000        # how long the pending question stays armed
+    foreground: true       # bring the new window to the front after restart
+    logToTemp: true        # write %TEMP%\dsh-power.log
+```
+
+## Security notes
+
+- The power endpoints require `isLoopback` AND a custom `x-dsh-power: 1` header. A random
+  web page cannot send that header cross-origin without a CORS preflight, which this route
+  does not answer — so drive-by "shut down the user's app" from an ad iframe is blocked.
+  (A `no-cors` fetch with only simple headers still reaches the server, which is exactly
+  why the header check exists.)
+- Multi-instance safety: with several DSH instances running, only the calling instance's
+  process tree (its Electron shell + same-named descendants, resolved from the host pid)
+  is stopped. Other instances are left alone. If the tree cannot be resolved the script
+  aborts instead of falling back to "kill all named". `-KillAllNamed` restores the old
+  behavior explicitly; `-Explain` prints both sets without killing anything.
+
+## Known limitations
+
+- No unsaved changes are preserved by any OS-level hook (that's expected).
+- After a successful restart, the widget may momentarily say "request failed" — that's just the old instance dying mid-flight. Check logs or `/power-status` for confirmation.
+- Some fully-focused games / video apps reject `SetForegroundWindow`; in that case logs will say `foreground=refused`.
+- Position persistence is browser-scoped (localStorage); switching browsers changes where the card appears.
+- Hand-run mode (`-Port 0`, when you run the script yourself) has no status route to probe: readiness there is "the pid we launched outlived its first seconds", and it is watched by pid liveness rather than by the port.
+
+## Development
+
+- Source: `lib/index.js` (host half), `client/widget.js` (the card), `scripts/restart-dsh.ps1`
+  (the restart engine). `client/niang-sleep.webp` is inlined into the widget by
+  `tools/embed-icon.cjs` (run `python tools/build-icon.py` first if you swap the art).
+- The PowerShell script must stay **ASCII-only**: Windows PowerShell 5.1 reads a BOM-less
+  `.ps1` as ANSI, and Chinese comments can swallow newlines and break the parser.
+- Checks: `npm run check` (node --check on both JS files); `pwsh -File test/tree-test.ps1`
+  (unit test for the multi-instance tree resolution against a fake process table);
+  `pwsh -File testbed\run-test.ps1 -Scenario A|B|C` and `pwsh -File testbed\noport-test.ps1`
+  (end-to-end runs of the engine against a fake app on ports 19501-19505 — they never touch
+  the real DSH); `pwsh -File scripts/restart-dsh.ps1 -Explain -HostPid <pid>` (dry look at
+  what a restart would kill on YOUR machine, kills nothing).
+- Run the testbed in a normal, unrestricted shell. Inside a restricted sandbox WMI is denied
+  (`CimException: 拒绝访问`), the launch legitimately falls back to explorer, and a healthy
+  run then looks like a failure.
+- Hot deploy while developing: copy the tree into
+  `~/.dsh/profiles/desktop/plugins/dsh-power` and register it via
+  `dsh plugin --profile desktop add <path>`. Widget changes need only a page refresh
+  (the route re-reads the file per request); `lib/index.js` changes need a DSH restart;
+  the `.ps1` is spawned fresh per action, so it is always live.
+
+## History of design fixes (each one maps to a real failure)
+
+1. Kill shell + host together — the Electron shell auto-restarts a killed host and races
+   the helper for the web port (EADDRINUSE crash loop).
+2. Launch via WMI (explorer/scheduler fallbacks) — a helper launched inside the host's Job
+   Object dies with it, so the relaunch never happens.
+3. Readiness = a real `/api/dsh-power/status` reply from a NEW pid, not "a pid exists".
+4. CSRF header on the power endpoints (a plain cross-origin POST used to reach them).
+5. Multi-instance safety: stop only our own process tree, resolved from the host pid.
+6. Foreground push after restart, so a fullscreen game doesn't hide the result.
+7. schtasks one-shot task deleted right after use (it used to linger forever).
+8. Settle window after the kill: an Electron shell respawns its host, so a shell killed a
+   moment too late left a young boot behind to race the new instance for the port. Same-named
+   processes younger than the kill are now stopped too, then the port is waited out.
+9. `lock-held-by-other` / `launch-failed` verdicts: retrying against a lock another instance
+   owns can never succeed, and the explorer/schtasks paths can report no pid at all — both
+   used to consume the entire start budget (30s per try) before saying anything.
+10. Watch after "OK": readiness was a single observation, so an instance that died or was
+    restarted a second later still left `ready/ok` in the status file. The helper now watches
+    for a while (outside the lock) and rewrites the record as `died` / `teardown` / `replaced`.
+11. Hand-run mode (`-Port 0`) no longer polls a budget it cannot satisfy and no longer reports
+    a healthy relaunch as `teardown` with exit code 3 — it watches the pid it launched.
+12. WMI calls carry a 20s operation timeout: this helper runs after the old instance is
+    already dead, so a hung CIM call must fall through to the explorer fallback instead of
+    leaving the app stopped with nobody left to relaunch it.
+13. The status record carries `servingPid` (the host pid the port actually named), so "up"
+    names the instance it verified instead of only the pid a launch path reported.
+
+## License
+
+MIT (copy of the pattern used by companion plugins).

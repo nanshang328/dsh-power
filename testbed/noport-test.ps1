@@ -1,1 +1,58 @@
-IyBIYW5kLXJ1biBtb2RlIHRlc3Q6IHRoZSBSRUFETUUgdGVsbHMgYSBodW1hbiB0byBydW4gcmVzdGFydC1kc2gucHMxIGJ5IGhhbmQsIGFuZCB0aGF0CiMgcGF0aCBoYXMgTk8gc3RhdHVzIHJvdXRlIHRvIHByb2JlIChQb3J0IDApLiBJdCB1c2VkIHRvIChhKSBwb2xsIHRoZSBsYXVuY2ggYnVkZ2V0IHRvIHRoZQojIHZlcnkgZW5kIGFuZCAoYikgdGhlbiByZXBvcnQgdGhlIGhlYWx0aHkgcmVsYXVuY2ggYXMgJ3RlYXJkb3duJyB3aXRoIGV4aXQgY29kZSAzLCBiZWNhdXNlCiMgdGhlIHdhdGNoIHBoYXNlIGFza2VkIGEgcG9ydCB0aGF0IG5ldmVyIGV4aXN0ZWQuIFRoaXMgY2hlY2tzIGJvdGggZml4ZXMuCiRFcnJvckFjdGlvblByZWZlcmVuY2UgPSAnQ29udGludWUnCiR0YiA9ICRQU1NjcmlwdFJvb3QKJGV4ZSA9IEpvaW4tUGF0aCAkdGIgJ0Zha2VEc2guZXhlJwokbG9nICA9IEpvaW4tUGF0aCAkdGIgJ2VuZ2luZS1ub3BvcnQubG9nJwokc3RhdCA9IEpvaW4tUGF0aCAkdGIgJ2VuZ2luZS1ub3BvcnQuanNvbicKZm9yZWFjaCgkZiBpbiBAKCRsb2csJHN0YXQpKXsgUmVtb3ZlLUl0ZW0gJGYgLUVycm9yQWN0aW9uIFNpbGVudGx5Q29udGludWUgfQppZiAoLW5vdCAoVGVzdC1QYXRoICRleGUpKSB7CiAgV3JpdGUtSG9zdCAoJ0ZBVEFMOiAnICsgJGV4ZSArICcgaXMgbWlzc2luZzsgaXQgbXVzdCBiZSBhIGNvcHkgb2Ygbm9kZS5leGUgKHNlZSB0ZXN0YmVkXFJFQURNRS5tZCkuJykKICBleGl0IDkKfQoKZnVuY3Rpb24gS2lsbEFsbEZha2UoKSB7CiAgR2V0LVByb2Nlc3MgLU5hbWUgJ0Zha2VEc2gnIC1FcnJvckFjdGlvbiBTaWxlbnRseUNvbnRpbnVlIHwgRm9yRWFjaC1PYmplY3QgeyB0cnkgeyBTdG9wLVByb2Nlc3MgLUlkICRfLklkIC1Gb3JjZSAtRUEgU3RvcCB9IGNhdGNoIHt9IH0KICBTdGFydC1TbGVlcCAtTWlsbGlzZWNvbmRzIDQwMAp9CgpXcml0ZS1Ib3N0ICc9PT0gbm8tcG9ydCAoaGFuZC1ydW4pIHRlc3Q6IGJvb3QgYSBmYWtlIHdpdGggbm8gc2VydmVkIHN0YXR1cyBwb3J0ID09PScKS2lsbEFsbEZha2UKJHRhaWwgPSAnIicgKyAoSm9pbi1QYXRoICR0YiAnZmFrZS1zaGVsbC5janMnKSArICciIC0tc3RhdGUtcG9ydCAwIC0tbG9jay1wb3J0IDE5NTA1IC0tcmVzcGF3bi1tcyAwJwokc2hlbGwgPSBTdGFydC1Qcm9jZXNzICRleGUgLUFyZ3VtZW50TGlzdCAkdGFpbCAtV2luZG93U3R5bGUgSGlkZGVuIC1QYXNzVGhydQpTdGFydC1TbGVlcCAtTWlsbGlzZWNvbmRzIDE1MDAKaWYgKC1ub3QgKEdldC1Qcm9jZXNzIC1JZCAkc2hlbGwuSWQgLUVBIFNpbGVudGx5Q29udGludWUpKSB7IFdyaXRlLUhvc3QgJ0ZBVEFMOiBmYWtlIHNoZWxsIGRpZWQnOyBleGl0IDkgfQpXcml0ZS1Ib3N0ICgnZmFrZSB1cDogc2hlbGwgcGlkPScgKyAkc2hlbGwuSWQgKyAnIChubyBwb3J0IHNlcnZlZCknKQoKV3JpdGUtSG9zdCAnPT09IHJ1biB0aGUgZW5naW5lIHdpdGggLVBvcnQgMCA9PT0nCiR0MCA9IEdldC1EYXRlCiRlbmcgPSBTdGFydC1Qcm9jZXNzIHBvd2Vyc2hlbGwuZXhlIC1Bcmd1bWVudExpc3QgJy1Ob1Byb2ZpbGUnLCctRXhlY3V0aW9uUG9saWN5JywnQnlwYXNzJywnLUZpbGUnLChKb2luLVBhdGggJHRiICcuLlxzY3JpcHRzXHJlc3RhcnQtZHNoLnBzMScpLAogICctUHJvY2Vzc05hbWUnLCdGYWtlRHNoJywnLUV4ZVBhdGgnLCRleGUsJy1MYXVuY2hBcmdzJywkdGFpbCwKICAnLVBvcnQnLCcwJywnLUhvc3RQaWQnLCIkKCRzaGVsbC5JZCkiLCctTG9nUGF0aCcsJGxvZywnLVN0YXR1c1BhdGgnLCRzdGF0LAogICctTm9Gb3JlZ3JvdW5kJywnLVdhaXRTdGFydFNlY29uZHMnLCcyMCcsJy1TdGFydFRyaWVzJywnMycsJy1XYXRjaEFmdGVyUmVhZHlTZWNvbmRzJywnNScsCiAgJy1SZWFzb24nLCd0ZXN0LW5vcG9ydCcgLVdpbmRvd1N0eWxlIEhpZGRlbiAtUGFzc1RocnUKJGZpbiA9ICRlbmcuV2FpdEZvckV4aXQoNjAwMDApCiRlbCA9IFtpbnRdKChHZXQtRGF0ZSktJHQwKS5Ub3RhbFNlY29uZHMKJGNvZGUgPSBpZigkZmluKXskZW5nLkV4aXRDb2RlfWVsc2V7J1RJTUVPVVQnfQpXcml0ZS1Ib3N0ICgiZW5naW5lIGV4aXRlZD0kZmluIGNvZGU9JGNvZGUgd2FsbD0ke2VsfXMiKQpXcml0ZS1Ib3N0ICctLS0gZW5naW5lIGxvZyAtLS0nCmlmIChUZXN0LVBhdGggJGxvZykgeyBHZXQtQ29udGVudCAkbG9nIH0KV3JpdGUtSG9zdCAnLS0tIGVuZ2luZSBzdGF0dXMgLS0tJwokcmF3ID0gaWYgKFRlc3QtUGF0aCAkc3RhdCkgeyBHZXQtQ29udGVudCAkc3RhdCAtUmF3IH0gZWxzZSB7ICcnIH0KaWYgKCRyYXcpIHsgV3JpdGUtSG9zdCAkcmF3IH0KJGxlZnQgPSBAKEdldC1Qcm9jZXNzIC1OYW1lICdGYWtlRHNoJyAtRUEgU2lsZW50bHlDb250aW51ZSB8IFNlbGVjdC1PYmplY3QgLUV4cGFuZCBJZCkKV3JpdGUtSG9zdCAoJ2FmdGVyOiBhbGl2ZUZha2U9JyArICgkbGVmdCAtam9pbiAnLCcpKQoKJHZlcmRpY3QgPSAnRkFJTCcKJHN0YWdlID0gJyc7ICRyZXN1bHQgPSAnJzsgJG5ld1BpZCA9IDAKdHJ5IHsgJGogPSAkcmF3IHwgQ29udmVydEZyb20tSnNvbjsgJHN0YWdlID0gW3N0cmluZ10kai5zdGFnZTsgJHJlc3VsdCA9IFtzdHJpbmddJGoucmVzdWx0OyAkbmV3UGlkID0gW2ludF0kai5uZXdQaWQgfSBjYXRjaCB7IH0KIyBsYXN0Lmpzb24gY2FycmllcyBzdGFnZS9yZXN1bHQgKG5vICdvaycgZmllbGQpOyAncmVhZHknKydvaycgbWVhbnMgdGhlIGhlbHBlciBjYWxsZWQgaXRzIG93bgojIHJlbGF1bmNoIGdvb2QsIGFuZCBleGl0PTAgKG5vdCB0aGUgb2xkIDMvLXRlYXJkb3duKSBpcyB0aGUgZml4IHVuZGVyIHRlc3QuCiRhbGl2ZSA9ICgkbmV3UGlkIC1ndCAwKSAtYW5kIChAKCRsZWZ0KSAtY29udGFpbnMgJG5ld1BpZCkKaWYgKCRjb2RlIC1lcSAwIC1hbmQgJHN0YWdlIC1lcSAncmVhZHknIC1hbmQgJHJlc3VsdCAtZXEgJ29rJyAtYW5kICRhbGl2ZSkgeyAkdmVyZGljdCA9ICdQQVNTJyB9CldyaXRlLUhvc3QgKCJOT1BPUlQgVEVTVCA9PiAkdmVyZGljdCAoZXhpdD0kY29kZSBzdGFnZT0kc3RhZ2UgcmVzdWx0PSRyZXN1bHQgbmV3UGlkPSRuZXdQaWQgYWxpdmU9JGFsaXZlKSIpCktpbGxBbGxGYWtlCldyaXRlLUhvc3QgJz09PSBmYWtlcyBjbGVhbmVkID09PScKZXhpdCAkKGlmICgkdmVyZGljdCAtZXEgJ1BBU1MnKSB7IDAgfSBlbHNlIHsgMSB9KQ==
+# Hand-run mode test: the README tells a human to run restart-dsh.ps1 by hand, and that
+# path has NO status route to probe (Port 0). It used to (a) poll the launch budget to the
+# very end and (b) then report the healthy relaunch as 'teardown' with exit code 3, because
+# the watch phase asked a port that never existed. This checks both fixes.
+$ErrorActionPreference = 'Continue'
+$tb = $PSScriptRoot
+$exe = Join-Path $tb 'FakeDsh.exe'
+$log  = Join-Path $tb 'engine-noport.log'
+$stat = Join-Path $tb 'engine-noport.json'
+foreach($f in @($log,$stat)){ Remove-Item $f -ErrorAction SilentlyContinue }
+if (-not (Test-Path $exe)) {
+  Write-Host ('FATAL: ' + $exe + ' is missing; it must be a copy of node.exe (see testbed\README.md).')
+  exit 9
+}
+
+function KillAllFake() {
+  Get-Process -Name 'FakeDsh' -ErrorAction SilentlyContinue | ForEach-Object { try { Stop-Process -Id $_.Id -Force -EA Stop } catch {} }
+  Start-Sleep -Milliseconds 400
+}
+
+Write-Host '=== no-port (hand-run) test: boot a fake with no served status port ==='
+KillAllFake
+$tail = '"' + (Join-Path $tb 'fake-shell.cjs') + '" --state-port 0 --lock-port 19505 --respawn-ms 0'
+$shell = Start-Process $exe -ArgumentList $tail -WindowStyle Hidden -PassThru
+Start-Sleep -Milliseconds 1500
+if (-not (Get-Process -Id $shell.Id -EA SilentlyContinue)) { Write-Host 'FATAL: fake shell died'; exit 9 }
+Write-Host ('fake up: shell pid=' + $shell.Id + ' (no port served)')
+
+Write-Host '=== run the engine with -Port 0 ==='
+$t0 = Get-Date
+$eng = Start-Process powershell.exe -ArgumentList '-NoProfile','-ExecutionPolicy','Bypass','-File',(Join-Path $tb '..\scripts\restart-dsh.ps1'),
+  '-ProcessName','FakeDsh','-ExePath',$exe,'-LaunchArgs',$tail,
+  '-Port','0','-HostPid',"$($shell.Id)",'-LogPath',$log,'-StatusPath',$stat,
+  '-NoForeground','-WaitStartSeconds','20','-StartTries','3','-WatchAfterReadySeconds','5',
+  '-Reason','test-noport' -WindowStyle Hidden -PassThru
+$fin = $eng.WaitForExit(60000)
+$el = [int]((Get-Date)-$t0).TotalSeconds
+$code = if($fin){$eng.ExitCode}else{'TIMEOUT'}
+Write-Host ("engine exited=$fin code=$code wall=${el}s")
+Write-Host '--- engine log ---'
+if (Test-Path $log) { Get-Content $log }
+Write-Host '--- engine status ---'
+$raw = if (Test-Path $stat) { Get-Content $stat -Raw } else { '' }
+if ($raw) { Write-Host $raw }
+$left = @(Get-Process -Name 'FakeDsh' -EA SilentlyContinue | Select-Object -Expand Id)
+Write-Host ('after: aliveFake=' + ($left -join ','))
+
+$verdict = 'FAIL'
+$stage = ''; $result = ''; $newPid = 0
+try { $j = $raw | ConvertFrom-Json; $stage = [string]$j.stage; $result = [string]$j.result; $newPid = [int]$j.newPid } catch { }
+# last.json carries stage/result (no 'ok' field); 'ready'+'ok' means the helper called its own
+# relaunch good, and exit=0 (not the old 3/-teardown) is the fix under test.
+$alive = ($newPid -gt 0) -and (@($left) -contains $newPid)
+if ($code -eq 0 -and $stage -eq 'ready' -and $result -eq 'ok' -and $alive) { $verdict = 'PASS' }
+Write-Host ("NOPORT TEST => $verdict (exit=$code stage=$stage result=$result newPid=$newPid alive=$alive)")
+KillAllFake
+Write-Host '=== fakes cleaned ==='
+exit $(if ($verdict -eq 'PASS') { 0 } else { 1 })

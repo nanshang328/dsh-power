@@ -1,1 +1,98 @@
-IyBTYW5kYm94IHRlc3QgcnVubmVyIGZvciB0aGUgZHNoLXBvd2VyIHJlc3RhcnQgZW5naW5lLiBJdCBORVZFUiB0b3VjaGVzIHRoZSByZWFsIGFwcDoKIyB0aGUgZmFrZSBhcHAgaXMgRmFrZURzaC5leGUgKGEgY29weSBvZiBub2RlKSBvbiBwb3J0cyAxOTUwMS8xOTUwMiwgbmFtZS1tYXRjaGVkIG9ubHkKIyBhcyAiRmFrZURzaCIuIFVzYWdlOiBydW4tdGVzdC5wczEgLVNjZW5hcmlvIEF8QnxDIFstUmVzcGF3bk1zIE5dCnBhcmFtKAogIFtzdHJpbmddJFNjZW5hcmlvID0gJ0EnLAogIFtpbnRdJFJlc3Bhd25NcyA9IDAKKQokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gJ0NvbnRpbnVlJwokdGIgPSAkUFNTY3JpcHRSb290CiRleGUgPSBKb2luLVBhdGggJHRiICdGYWtlRHNoLmV4ZScKJHN0YXRlUG9ydCA9IDE5NTAxCiRsb2NrUG9ydCAgPSAxOTUwMgokbG9nICA9IEpvaW4tUGF0aCAkdGIgKCJlbmdpbmUtJFNjZW5hcmlvLmxvZyIpCiRzdGF0ID0gSm9pbi1QYXRoICR0YiAoImVuZ2luZS0kU2NlbmFyaW8uanNvbiIpCmZvcmVhY2goJGYgaW4gQCgkbG9nLCRzdGF0KSl7IFJlbW92ZS1JdGVtICRmIC1FcnJvckFjdGlvbiBTaWxlbnRseUNvbnRpbnVlIH0KaWYgKC1ub3QgKFRlc3QtUGF0aCAkZXhlKSkgewogIFdyaXRlLUhvc3QgKCdGQVRBTDogJyArICRleGUgKyAnIGlzIG1pc3NpbmcuJykKICBXcml0ZS1Ib3N0ICdGYWtlRHNoLmV4ZSBtdXN0IGJlIGEgQ09QWSBvZiBub2RlLmV4ZTogdGhlIGVuZ2luZSBtYXRjaGVzIHByb2Nlc3NlcyBieSBuYW1lLCBzbyB0aGUnCiAgV3JpdGUtSG9zdCAnZmFrZSBhcHAgaGFzIHRvIGxvb2sgbGlrZSBhIHNlY29uZCBpbnN0YWxsIG9mIERTSC4gQ3JlYXRlIGl0IHdpdGggb25lIG9mOicKICBXcml0ZS1Ib3N0ICcgIENvcHktSXRlbSAoR2V0LUNvbW1hbmQgbm9kZSkuU291cmNlIC5cRmFrZURzaC5leGUnCiAgV3JpdGUtSG9zdCAnICBDb3B5LUl0ZW0gIjxEU0g+XHJlc291cmNlc1xydW50aW1lXHByaW1hcnktcnVudGltZVxkZXBlbmRlbmNpZXNcbm9kZVxiaW5cbm9kZS5leGUiIC5cRmFrZURzaC5leGUnCiAgZXhpdCA5Cn0KCmZ1bmN0aW9uIFBvcnRTZXJ2aW5nKFtpbnRdJHBvcnQsIFtyZWZdJHBpZE91dCkgewogIHRyeSB7CiAgICAkciA9IEludm9rZS1XZWJSZXF1ZXN0IC1VcmkgKCJodHRwOi8vMTI3LjAuMC4xOiRwb3J0L2FwaS9kc2gtcG93ZXIvc3RhdHVzIikgLVRpbWVvdXRTZWMgMiAtVXNlQmFzaWNQYXJzaW5nIC1FQSBTdG9wCiAgICBpZiAoJHIuU3RhdHVzQ29kZSAtZXEgMjAwKSB7ICRqID0gJHIuQ29udGVudCB8IENvbnZlcnRGcm9tLUpzb247ICRwaWRPdXQuVmFsdWUgPSBbaW50XSRqLnBpZDsgcmV0dXJuICgkai5vayAtZXEgJHRydWUpIH0KICB9IGNhdGNoIHsgfQogICRwaWRPdXQuVmFsdWUgPSAwOyByZXR1cm4gJGZhbHNlCn0KZnVuY3Rpb24gS2lsbEFsbEZha2UoKSB7CiAgR2V0LVByb2Nlc3MgLU5hbWUgJ0Zha2VEc2gnIC1FcnJvckFjdGlvbiBTaWxlbnRseUNvbnRpbnVlIHwgRm9yRWFjaC1PYmplY3QgeyB0cnkgeyBTdG9wLVByb2Nlc3MgLUlkICRfLklkIC1Gb3JjZSAtRUEgU3RvcCB9IGNhdGNoIHt9IH0KICBTdGFydC1TbGVlcCAtTWlsbGlzZWNvbmRzIDQwMAp9CgpXcml0ZS1Ib3N0ICI9PT0gc2NlbmFyaW8gJFNjZW5hcmlvIHJlc3Bhd249JFJlc3Bhd25NcyA6IGJvb3QgdGhlIGZha2UgYXBwID09PSIKS2lsbEFsbEZha2UKIyBTY2VuYXJpbyBDIHJ1bnMgYSBTRUNPTkQgZmFrZSBpbnN0YW5jZSAoaXRzIG93biBsb2NrK3N0YXRlIHBvcnRzKSB0aGF0IG11c3QgYmUgbGVmdAojIGNvbXBsZXRlbHkgdW50b3VjaGVkOiB0aGF0IGlzIHRoZSBtdWx0aS1pbnN0YW5jZSBndWFyYW50ZWUgb2YgdGhlIG93bi10cmVlIG1vZGUuCiRvdGhlclBpZHMgPSBAKCkKaWYgKCRTY2VuYXJpbyAtZXEgJ0MnKSB7CiAgJG90aGVyVGFpbCA9ICciJyArIChKb2luLVBhdGggJHRiICdmYWtlLXNoZWxsLmNqcycpICsgJyIgLS1zdGF0ZS1wb3J0IDE5NTAzIC0tbG9jay1wb3J0IDE5NTA0IC0tcmVzcGF3bi1tcyAwJwogICRvdGhlciA9IFN0YXJ0LVByb2Nlc3MgJGV4ZSAtQXJndW1lbnRMaXN0ICRvdGhlclRhaWwgLVdpbmRvd1N0eWxlIEhpZGRlbiAtUGFzc1RocnUKICAkb3AgPSAwOyAkb2QgPSAoR2V0LURhdGUpLkFkZFNlY29uZHMoMTIpCiAgd2hpbGUgKChHZXQtRGF0ZSkgLWx0ICRvZCkgeyBTdGFydC1TbGVlcCAtTWlsbGlzZWNvbmRzIDMwMDsgaWYgKFBvcnRTZXJ2aW5nIDE5NTAzIChbcmVmXSRvcCkpIHsgYnJlYWsgfSB9CiAgaWYgKCRvcCAtZXEgMCkgeyBXcml0ZS1Ib3N0ICdGQVRBTDogb3RoZXIgZmFrZSBuZXZlciBzZXJ2ZWQnOyBLaWxsQWxsRmFrZTsgZXhpdCA5IH0KICAkb3RoZXJQaWRzID0gQChHZXQtUHJvY2VzcyAtTmFtZSAnRmFrZURzaCcgLUVBIFNpbGVudGx5Q29udGludWUgfCBTZWxlY3QtT2JqZWN0IC1FeHBhbmQgSWQpCiAgV3JpdGUtSG9zdCAoIm90aGVyIGZha2UgdXAgKG11c3Qgc3Vydml2ZSk6ICIgKyAoJG90aGVyUGlkcyAtam9pbiAnLCcpKQp9CiR0YWlsID0gJyInICsgKEpvaW4tUGF0aCAkdGIgJ2Zha2Utc2hlbGwuY2pzJykgKyAnIiAtLXN0YXRlLXBvcnQgJyArICRzdGF0ZVBvcnQgKyAnIC0tbG9jay1wb3J0ICcgKyAkbG9ja1BvcnQgKyAnIC0tcmVzcGF3bi1tcyAnICsgJFJlc3Bhd25Ncwokc2hlbGwgPSBTdGFydC1Qcm9jZXNzICRleGUgLUFyZ3VtZW50TGlzdCAkdGFpbCAtV2luZG93U3R5bGUgSGlkZGVuIC1QYXNzVGhydQokYm9vdGVkID0gJGZhbHNlOyAkcDAgPSAwOyAkZGVhZGxpbmU9KEdldC1EYXRlKS5BZGRTZWNvbmRzKDEyKQp3aGlsZSAoKEdldC1EYXRlKSAtbHQgJGRlYWRsaW5lKSB7IFN0YXJ0LVNsZWVwIC1NaWxsaXNlY29uZHMgMzAwOyBpZiAoUG9ydFNlcnZpbmcgJHN0YXRlUG9ydCAoW3JlZl0kcDApKSB7ICRib290ZWQ9JHRydWU7IGJyZWFrIH0gfQppZiAoLW5vdCAkYm9vdGVkKSB7IFdyaXRlLUhvc3QgJ0ZBVEFMOiBmYWtlIGFwcCBuZXZlciBzZXJ2ZWQnOyBLaWxsQWxsRmFrZTsgZXhpdCA5IH0KJGZha2VQaWRzID0gQChHZXQtUHJvY2VzcyAtTmFtZSAnRmFrZURzaCcgLUVBIFNpbGVudGx5Q29udGludWUgfCBTZWxlY3QtT2JqZWN0IC1FeHBhbmQgSWQpCldyaXRlLUhvc3QgKCJmYWtlIHVwOiBzdGF0ZSBwaWQ9JHAwIHNoZWxsIHBpZD0iICsgJHNoZWxsLklkICsgIiBhbGw9IiArICgkZmFrZVBpZHMgLWpvaW4gJywnKSkKCmlmICgkU2NlbmFyaW8gLWVxICdDJykgewogICMgYSBTRUNPTkQsIG9sZGVyIGZha2UgaW5zdGFuY2UgaG9sZHMgdGhlIHNpbmdsZS1pbnN0YW5jZSBsb2NrIGFuZCBzZXJ2ZXMgdGhlIHBvcnQuCiAgIyBUaGUgZW5naW5lIG11c3QgTk9UIGtpbGwgaXQgKGl0IGlzIG5vdCBvdXJzIGluIHRoZSB0cmVlIHNlbnNlLCBhbmQgaGVyZSBIb3N0UGlkPTAgbWVhbnMKICAjIGxlZ2FjeSBraWxsLWFsbCwgc28gdGhlIHJlYWwgcHJvdGVjdGlvbiB1bmRlciB0ZXN0IGlzOiByZWxhdW5jaCBpbnRvIGl0ID0gc3R1YiwgZW5naW5lCiAgIyBtdXN0IG5vdGljZSBmYXN0IGFuZCBzYXkgbG9jay1oZWxkLWJ5LW90aGVyIGluc3RlYWQgb2YgYnVybmluZyAzMHMgcGVyIHRyeSkuCiAgV3JpdGUtSG9zdCAnPT09IHNjZW5hcmlvIEM6IHNlY29uZCBpbnN0YW5jZSBhbHJlYWR5IG93bnMgdGhlIGxvY2sgPT09Jwp9CgpXcml0ZS1Ib3N0ICI9PT0gcnVuIHRoZSBlbmdpbmUgPT09IgokdDAgPSBHZXQtRGF0ZQokZW5nID0gU3RhcnQtUHJvY2VzcyBwb3dlcnNoZWxsLmV4ZSAtQXJndW1lbnRMaXN0ICctTm9Qcm9maWxlJywnLUV4ZWN1dGlvblBvbGljeScsJ0J5cGFzcycsJy1GaWxlJywoSm9pbi1QYXRoICR0YiAnLi5cc2NyaXB0c1xyZXN0YXJ0LWRzaC5wczEnKSwKICAnLVByb2Nlc3NOYW1lJywnRmFrZURzaCcsJy1FeGVQYXRoJywkZXhlLCctTGF1bmNoQXJncycsJHRhaWwsCiAgJy1Qb3J0JywiJHN0YXRlUG9ydCIsJy1Ib3N0UGlkJywiJCgkc2hlbGwuSWQpIiwnLUxvZ1BhdGgnLCRsb2csJy1TdGF0dXNQYXRoJywkc3RhdCwKICAnLU5vRm9yZWdyb3VuZCcsJy1XYWl0U3RhcnRTZWNvbmRzJywnMjAnLCctU3RhcnRUcmllcycsJzMnLCctV2F0Y2hBZnRlclJlYWR5U2Vjb25kcycsJzUnLAogICctUmVhc29uJywidGVzdC0kU2NlbmFyaW8iIC1XaW5kb3dTdHlsZSBIaWRkZW4gLVBhc3NUaHJ1CiRmaW4gPSAkZW5nLldhaXRGb3JFeGl0KDYwMDAwKQokZWwgPSBbaW50XSgoR2V0LURhdGUpLSR0MCkuVG90YWxTZWNvbmRzCldyaXRlLUhvc3QgKCJlbmdpbmUgZXhpdGVkPSRmaW4gY29kZT0iICsgJChpZigkZmluKXskZW5nLkV4aXRDb2RlfWVsc2V7J1RJTUVPVVQnfSkgKyAiIHdhbGw9JHtlbH1zIikKV3JpdGUtSG9zdCAnLS0tIGVuZ2luZSBsb2cgLS0tJwppZiAoVGVzdC1QYXRoICRsb2cpIHsgR2V0LUNvbnRlbnQgJGxvZyB9CldyaXRlLUhvc3QgJy0tLSBlbmdpbmUgc3RhdHVzIC0tLScKaWYgKFRlc3QtUGF0aCAkc3RhdCkgeyBHZXQtQ29udGVudCAkc3RhdCAtUmF3IH0KJHNlcnZpbmdQaWQgPSAwOyAkc2VydmluZyA9IFBvcnRTZXJ2aW5nICRzdGF0ZVBvcnQgKFtyZWZdJHNlcnZpbmdQaWQpCiRsZWZ0ID0gQChHZXQtUHJvY2VzcyAtTmFtZSAnRmFrZURzaCcgLUVBIFNpbGVudGx5Q29udGludWUgfCBTZWxlY3QtT2JqZWN0IC1FeHBhbmQgSWQpCldyaXRlLUhvc3QgKCJhZnRlcjogc2VydmluZz0kc2VydmluZyBwaWQ9JHNlcnZpbmdQaWQgYWxpdmVGYWtlPSIgKyAoJGxlZnQgLWpvaW4gJywnKSkKJHZlcmRpY3QgPSAnRkFJTCcKaWYgKCRTY2VuYXJpbyAtZXEgJ0MnKSB7CiAgJHN1cnZpdm9ycyA9IEAoJG90aGVyUGlkcyB8IFdoZXJlLU9iamVjdCB7ICRsZWZ0IC1jb250YWlucyAkXyB9KQogICRvdGhlclNlcnZpbmcgPSAkZmFsc2U7ICRvcGlkID0gMAogICRvdGhlclNlcnZpbmcgPSBQb3J0U2VydmluZyAxOTUwMyAoW3JlZl0kb3BpZCkKICBXcml0ZS1Ib3N0ICgib3RoZXItaW5zdGFuY2U6IHBpZHNfc3Vydml2aW5nPSIgKyAoJHN1cnZpdm9ycy5Db3VudCkgKyAiLyIgKyAoJG90aGVyUGlkcy5Db3VudCkgKyAiIHNlcnZpbmc9IiArICRvdGhlclNlcnZpbmcgKyAiIHBpZD0iICsgJG9waWQpCiAgaWYgKCRzZXJ2aW5nIC1hbmQgJHN1cnZpdm9ycy5Db3VudCAtZXEgJG90aGVyUGlkcy5Db3VudCAtYW5kICRvdGhlclNlcnZpbmcpIHsgJHZlcmRpY3QgPSAnUEFTUycgfSBlbHNlIHsgJHZlcmRpY3QgPSAnRkFJTCcgfQp9IGVsc2UgewogIGlmICgkc2VydmluZykgeyAkdmVyZGljdCA9ICdQQVNTJyB9Cn0KV3JpdGUtSG9zdCAoIlNDRU5BUklPICRTY2VuYXJpbyA9PiAkdmVyZGljdCIpCktpbGxBbGxGYWtlCldyaXRlLUhvc3QgJz09PSBmYWtlcyBjbGVhbmVkID09PScKZXhpdCAkKGlmICgkdmVyZGljdCAtZXEgJ1BBU1MnKSB7IDAgfSBlbHNlIHsgMSB9KQoK
+# Sandbox test runner for the dsh-power restart engine. It NEVER touches the real app:
+# the fake app is FakeDsh.exe (a copy of node) on ports 19501/19502, name-matched only
+# as "FakeDsh". Usage: run-test.ps1 -Scenario A|B|C [-RespawnMs N]
+param(
+  [string]$Scenario = 'A',
+  [int]$RespawnMs = 0
+)
+$ErrorActionPreference = 'Continue'
+$tb = $PSScriptRoot
+$exe = Join-Path $tb 'FakeDsh.exe'
+$statePort = 19501
+$lockPort  = 19502
+$log  = Join-Path $tb ("engine-$Scenario.log")
+$stat = Join-Path $tb ("engine-$Scenario.json")
+foreach($f in @($log,$stat)){ Remove-Item $f -ErrorAction SilentlyContinue }
+if (-not (Test-Path $exe)) {
+  Write-Host ('FATAL: ' + $exe + ' is missing.')
+  Write-Host 'FakeDsh.exe must be a COPY of node.exe: the engine matches processes by name, so the'
+  Write-Host 'fake app has to look like a second install of DSH. Create it with one of:'
+  Write-Host '  Copy-Item (Get-Command node).Source .\FakeDsh.exe'
+  Write-Host '  Copy-Item "<DSH>\resources\runtime\primary-runtime\dependencies\node\bin\node.exe" .\FakeDsh.exe'
+  exit 9
+}
+
+function PortServing([int]$port, [ref]$pidOut) {
+  try {
+    $r = Invoke-WebRequest -Uri ("http://127.0.0.1:$port/api/dsh-power/status") -TimeoutSec 2 -UseBasicParsing -EA Stop
+    if ($r.StatusCode -eq 200) { $j = $r.Content | ConvertFrom-Json; $pidOut.Value = [int]$j.pid; return ($j.ok -eq $true) }
+  } catch { }
+  $pidOut.Value = 0; return $false
+}
+function KillAllFake() {
+  Get-Process -Name 'FakeDsh' -ErrorAction SilentlyContinue | ForEach-Object { try { Stop-Process -Id $_.Id -Force -EA Stop } catch {} }
+  Start-Sleep -Milliseconds 400
+}
+
+Write-Host "=== scenario $Scenario respawn=$RespawnMs : boot the fake app ==="
+KillAllFake
+# Scenario C runs a SECOND fake instance (its own lock+state ports) that must be left
+# completely untouched: that is the multi-instance guarantee of the own-tree mode.
+$otherPids = @()
+if ($Scenario -eq 'C') {
+  $otherTail = '"' + (Join-Path $tb 'fake-shell.cjs') + '" --state-port 19503 --lock-port 19504 --respawn-ms 0'
+  $other = Start-Process $exe -ArgumentList $otherTail -WindowStyle Hidden -PassThru
+  $op = 0; $od = (Get-Date).AddSeconds(12)
+  while ((Get-Date) -lt $od) { Start-Sleep -Milliseconds 300; if (PortServing 19503 ([ref]$op)) { break } }
+  if ($op -eq 0) { Write-Host 'FATAL: other fake never served'; KillAllFake; exit 9 }
+  $otherPids = @(Get-Process -Name 'FakeDsh' -EA SilentlyContinue | Select-Object -Expand Id)
+  Write-Host ("other fake up (must survive): " + ($otherPids -join ','))
+}
+$tail = '"' + (Join-Path $tb 'fake-shell.cjs') + '" --state-port ' + $statePort + ' --lock-port ' + $lockPort + ' --respawn-ms ' + $RespawnMs
+$shell = Start-Process $exe -ArgumentList $tail -WindowStyle Hidden -PassThru
+$booted = $false; $p0 = 0; $deadline=(Get-Date).AddSeconds(12)
+while ((Get-Date) -lt $deadline) { Start-Sleep -Milliseconds 300; if (PortServing $statePort ([ref]$p0)) { $booted=$true; break } }
+if (-not $booted) { Write-Host 'FATAL: fake app never served'; KillAllFake; exit 9 }
+$fakePids = @(Get-Process -Name 'FakeDsh' -EA SilentlyContinue | Select-Object -Expand Id)
+Write-Host ("fake up: state pid=$p0 shell pid=" + $shell.Id + " all=" + ($fakePids -join ','))
+
+if ($Scenario -eq 'C') {
+  # a SECOND, older fake instance holds the single-instance lock and serves the port.
+  # The engine must NOT kill it (it is not ours in the tree sense, and here HostPid=0 means
+  # legacy kill-all, so the real protection under test is: relaunch into it = stub, engine
+  # must notice fast and say lock-held-by-other instead of burning 30s per try).
+  Write-Host '=== scenario C: second instance already owns the lock ==='
+}
+
+Write-Host "=== run the engine ==="
+$t0 = Get-Date
+$eng = Start-Process powershell.exe -ArgumentList '-NoProfile','-ExecutionPolicy','Bypass','-File',(Join-Path $tb '..\scripts\restart-dsh.ps1'),
+  '-ProcessName','FakeDsh','-ExePath',$exe,'-LaunchArgs',$tail,
+  '-Port',"$statePort",'-HostPid',"$($shell.Id)",'-LogPath',$log,'-StatusPath',$stat,
+  '-NoForeground','-WaitStartSeconds','20','-StartTries','3','-WatchAfterReadySeconds','5',
+  '-Reason',"test-$Scenario" -WindowStyle Hidden -PassThru
+$fin = $eng.WaitForExit(60000)
+$el = [int]((Get-Date)-$t0).TotalSeconds
+Write-Host ("engine exited=$fin code=" + $(if($fin){$eng.ExitCode}else{'TIMEOUT'}) + " wall=${el}s")
+Write-Host '--- engine log ---'
+if (Test-Path $log) { Get-Content $log }
+Write-Host '--- engine status ---'
+if (Test-Path $stat) { Get-Content $stat -Raw }
+$servingPid = 0; $serving = PortServing $statePort ([ref]$servingPid)
+$left = @(Get-Process -Name 'FakeDsh' -EA SilentlyContinue | Select-Object -Expand Id)
+Write-Host ("after: serving=$serving pid=$servingPid aliveFake=" + ($left -join ','))
+$verdict = 'FAIL'
+if ($Scenario -eq 'C') {
+  $survivors = @($otherPids | Where-Object { $left -contains $_ })
+  $otherServing = $false; $opid = 0
+  $otherServing = PortServing 19503 ([ref]$opid)
+  Write-Host ("other-instance: pids_surviving=" + ($survivors.Count) + "/" + ($otherPids.Count) + " serving=" + $otherServing + " pid=" + $opid)
+  if ($serving -and $survivors.Count -eq $otherPids.Count -and $otherServing) { $verdict = 'PASS' } else { $verdict = 'FAIL' }
+} else {
+  if ($serving) { $verdict = 'PASS' }
+}
+Write-Host ("SCENARIO $Scenario => $verdict")
+KillAllFake
+Write-Host '=== fakes cleaned ==='
+exit $(if ($verdict -eq 'PASS') { 0 } else { 1 })
+

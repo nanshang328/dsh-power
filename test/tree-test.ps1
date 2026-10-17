@@ -1,1 +1,77 @@
-IyBVbml0IHRlc3QgZm9yIFJlc29sdmUtT3duVHJlZSAoZXh0cmFjdGVkIHZlcmJhdGltIGZyb20gcmVzdGFydC1kc2gucHMxLCB3aXRoIGEgZmFrZQojIGxpbmsgdGFibGUpOiB0d28gRFNIIGluc3RhbmNlcyBzaWRlIGJ5IHNpZGU7IHRoZSB0cmVlIGZyb20gaW5zdGFuY2UgQSdzIGhvc3QgbXVzdCBiZQojIGV4YWN0bHkgQSdzIHNoZWxsK2NoaWxkcmVuLCBuZXZlciBCJ3MuIEFTQ0lJIG9ubHkuCiRFcnJvckFjdGlvblByZWZlcmVuY2UgPSAnU3RvcCcKZnVuY3Rpb24gTG9nKFtzdHJpbmddJG0pIHsgV3JpdGUtSG9zdCAoJ2xvZzogJyArICRtKSB9CgojIC0tLSBiZWdpbiB2ZXJiYXRpbSBjb3B5IC0tLQpmdW5jdGlvbiBSZXNvbHZlLU93blRyZWUoW2ludF0kaG9zdFBpZCwgW3N0cmluZ10kbmFtZSwgJGxpbmtzKSB7CiAgaWYgKCRob3N0UGlkIC1sZSAwKSB7IHJldHVybiBAKCkgfQogICRsZWFmID0gKCRuYW1lIC1yZXBsYWNlICdcLmV4ZSQnLCAnJykKICAkYnlQaWQgPSBAe30KICBmb3JlYWNoICgkcm93IGluICRsaW5rcykgeyAkYnlQaWRbW2ludF0kcm93LlByb2Nlc3NJZF0gPSAkcm93IH0KICBpZiAoLW5vdCAkYnlQaWQuQ29udGFpbnNLZXkoJGhvc3RQaWQpKSB7IHJldHVybiBAKCkgfQogICRzaGVsbCA9ICRob3N0UGlkCiAgJHN0ZXBzID0gMAogIHdoaWxlICgkc3RlcHMgLWx0IDY0KSB7CiAgICAkc3RlcHMgKz0gMQogICAgJHJvdyA9ICRieVBpZFskc2hlbGxdCiAgICAkcGFyZW50ID0gW2ludF0kcm93LlBhcmVudFByb2Nlc3NJZAogICAgaWYgKCRwYXJlbnQgLWxlIDAgLW9yIC1ub3QgJGJ5UGlkLkNvbnRhaW5zS2V5KCRwYXJlbnQpKSB7IGJyZWFrIH0KICAgIGlmICgoKCRieVBpZFskcGFyZW50XS5OYW1lKSAtcmVwbGFjZSAnXC5leGUkJywgJycpIC1uZSAkbGVhZikgeyBicmVhayB9CiAgICAkc2hlbGwgPSAkcGFyZW50CiAgfQogICRraWRzT2YgPSBAe30KICBmb3JlYWNoICgkcm93IGluICRsaW5rcykgewogICAgJHBwID0gW2ludF0kcm93LlBhcmVudFByb2Nlc3NJZAogICAgaWYgKC1ub3QgJGtpZHNPZi5Db250YWluc0tleSgkcHApKSB7ICRraWRzT2ZbJHBwXSA9IEAoKSB9CiAgICAka2lkc09mWyRwcF0gKz0gW2ludF0kcm93LlByb2Nlc3NJZAogIH0KICAkdHJlZSA9IE5ldy1PYmplY3QgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdFtpbnRdCiAgJHNlZW4gPSBAe30KICAkcXVldWUgPSBAKCRzaGVsbCkKICB3aGlsZSAoJHF1ZXVlLkNvdW50IC1ndCAwKSB7CiAgICAkY3VycmVudCA9ICRxdWV1ZVswXQogICAgJHF1ZXVlID0gQCgkcXVldWUgfCBTZWxlY3QtT2JqZWN0IC1Ta2lwIDEpCiAgICBpZiAoJHNlZW4uQ29udGFpbnNLZXkoJGN1cnJlbnQpKSB7IGNvbnRpbnVlIH0KICAgIGlmICgtbm90ICRieVBpZC5Db250YWluc0tleSgkY3VycmVudCkpIHsgY29udGludWUgfQogICAgaWYgKCgoJGJ5UGlkWyRjdXJyZW50XS5OYW1lKSAtcmVwbGFjZSAnXC5leGUkJywgJycpIC1uZSAkbGVhZikgeyBjb250aW51ZSB9CiAgICAkc2VlblskY3VycmVudF0gPSAkdHJ1ZQogICAgJHRyZWUuQWRkKCRjdXJyZW50KQogICAgaWYgKCRraWRzT2YuQ29udGFpbnNLZXkoJGN1cnJlbnQpKSB7ICRxdWV1ZSArPSAka2lkc09mWyRjdXJyZW50XSB9CiAgfQogIHJldHVybiBAKCR0cmVlKQp9CiMgLS0tIGVuZCB2ZXJiYXRpbSBjb3B5IC0tLQoKZnVuY3Rpb24gUm93KCRwcm9jSWQsICRwcGlkLCAkbmFtZSkgeyByZXR1cm4gW3BzY3VzdG9tb2JqZWN0XUB7IFByb2Nlc3NJZCA9ICRwcm9jSWQ7IFBhcmVudFByb2Nlc3NJZCA9ICRwcGlkOyBOYW1lID0gJG5hbWUgfSB9CiREU0ggPSAnRGVlcFNlZWsgSGFybmVzcy5leGUnCgojIGluc3RhbmNlIEE6IHNoZWxsIDEwMCAocGFyZW50PWV4cGxvcmVyIDEpIC0+IGhvc3QgMTAxIC0+IGdwdSAxMDIsIHJlbmRlcmVyIDEwMwojIGluc3RhbmNlIEI6IHNoZWxsIDIwMCAocGFyZW50PWV4cGxvcmVyIDEpIC0+IGhvc3QgMjAxIC0+IGdwdSAyMDIKIyBub2lzZTogICAgICBleHBsb3JlciAxLCBjb25zb2xlIDMwMCAobmFtZWQgZGlmZmVyZW50bHkpLCB1bnJlbGF0ZWQgMzAxIG5hbWVkIERTSCBidXQgcGFyZW50PXNlcnZpY2VzCiRsaW5rcyA9IEAoCiAgKFJvdyAxIDAgJ2V4cGxvcmVyLmV4ZScpLAogIChSb3cgMTAwIDEgJERTSCksIChSb3cgMTAxIDEwMCAkRFNIKSwgKFJvdyAxMDIgMTAxICREU0gpLCAoUm93IDEwMyAxMDEgJERTSCksCiAgKFJvdyAyMDAgMSAkRFNIKSwgKFJvdyAyMDEgMjAwICREU0gpLCAoUm93IDIwMiAyMDEgJERTSCksCiAgKFJvdyAzMDEgOTk5ICREU0gpCikKCiRmYWlsID0gMApmdW5jdGlvbiBBc3NlcnQtU2V0KCRhY3R1YWwsICRleHBlY3RlZCwgJGxhYmVsKSB7CiAgJGEgPSBAKCRhY3R1YWwgfCBTb3J0LU9iamVjdCk7ICRlID0gQCgkZXhwZWN0ZWQgfCBTb3J0LU9iamVjdCkKICBpZiAoKCRhIC1qb2luICcsJykgLWVxICgkZSAtam9pbiAnLCcpKSB7ICJQQVNTICRsYWJlbCAtPiAiICsgKCRhIC1qb2luICcsJykgfQogIGVsc2UgeyAkc2NyaXB0OmZhaWwrKzsgIkZBSUwgJGxhYmVsIGFjdHVhbD0iICsgKCRhIC1qb2luICcsJykgKyAnIGV4cGVjdGVkPScgKyAoJGUgLWpvaW4gJywnKSB9Cn0KCkFzc2VydC1TZXQgKFJlc29sdmUtT3duVHJlZSAxMDEgJERTSCAkbGlua3MpIEAoMTAwLDEwMSwxMDIsMTAzKSAnQSBob3N0IHBpZCAtPiB3aG9sZSBBIHRyZWUsIG5vdCBCJwpBc3NlcnQtU2V0IChSZXNvbHZlLU93blRyZWUgMjAxICREU0ggJGxpbmtzKSBAKDIwMCwyMDEsMjAyKSAgICAgJ0IgaG9zdCBwaWQgLT4gd2hvbGUgQiB0cmVlLCBub3QgQScKQXNzZXJ0LVNldCAoUmVzb2x2ZS1Pd25UcmVlIDEwMCAkRFNIICRsaW5rcykgQCgxMDAsMTAxLDEwMiwxMDMpICdBIHNoZWxsIHBpZCAtPiBzYW1lIEEgdHJlZScKQXNzZXJ0LVNldCAoUmVzb2x2ZS1Pd25UcmVlIDMwMSAkRFNIICRsaW5rcykgQCgzMDEpICAgICAgICAgICAgICdvcnBoYW4gbmFtZWQgcGlkIC0+IGl0c2VsZiBvbmx5JwpBc3NlcnQtU2V0IChSZXNvbHZlLU93blRyZWUgOTk5ICREU0ggJGxpbmtzKSBAKCkgICAgICAgICAgICAgICAgJ3Vua25vd24gcGlkIC0+IGVtcHR5IChhYm9ydHMgdGhlIGtpbGwpJwpBc3NlcnQtU2V0IChSZXNvbHZlLU93blRyZWUgMCAkRFNIICRsaW5rcykgQCgpICAgICAgICAgICAgICAgICAgJ2hvc3RQaWQgMCAtPiBlbXB0eScKCiMgbmFtZSBnaXZlbiBXSVRIT1VUIC5leGUgKGFzIHRoZSBwbHVnaW4gcGFzc2VzIGl0KSBtdXN0IHN0aWxsIG1hdGNoCkFzc2VydC1TZXQgKFJlc29sdmUtT3duVHJlZSAxMDEgJ0RlZXBTZWVrIEhhcm5lc3MnICRsaW5rcykgQCgxMDAsMTAxLDEwMiwxMDMpICduYW1lIHdpdGhvdXQgLmV4ZSBzdGlsbCBtYXRjaGVzJwoKaWYgKCRmYWlsIC1lcSAwKSB7ICdBTEwgUEFTUyc7IGV4aXQgMCB9IGVsc2UgeyAiJGZhaWwgRkFJTEVEIjsgZXhpdCAxIH0K
+# Unit test for Resolve-OwnTree (extracted verbatim from restart-dsh.ps1, with a fake
+# link table): two DSH instances side by side; the tree from instance A's host must be
+# exactly A's shell+children, never B's. ASCII only.
+$ErrorActionPreference = 'Stop'
+function Log([string]$m) { Write-Host ('log: ' + $m) }
+
+# --- begin verbatim copy ---
+function Resolve-OwnTree([int]$hostPid, [string]$name, $links) {
+  if ($hostPid -le 0) { return @() }
+  $leaf = ($name -replace '\.exe$', '')
+  $byPid = @{}
+  foreach ($row in $links) { $byPid[[int]$row.ProcessId] = $row }
+  if (-not $byPid.ContainsKey($hostPid)) { return @() }
+  $shell = $hostPid
+  $steps = 0
+  while ($steps -lt 64) {
+    $steps += 1
+    $row = $byPid[$shell]
+    $parent = [int]$row.ParentProcessId
+    if ($parent -le 0 -or -not $byPid.ContainsKey($parent)) { break }
+    if ((($byPid[$parent].Name) -replace '\.exe$', '') -ne $leaf) { break }
+    $shell = $parent
+  }
+  $kidsOf = @{}
+  foreach ($row in $links) {
+    $pp = [int]$row.ParentProcessId
+    if (-not $kidsOf.ContainsKey($pp)) { $kidsOf[$pp] = @() }
+    $kidsOf[$pp] += [int]$row.ProcessId
+  }
+  $tree = New-Object System.Collections.Generic.List[int]
+  $seen = @{}
+  $queue = @($shell)
+  while ($queue.Count -gt 0) {
+    $current = $queue[0]
+    $queue = @($queue | Select-Object -Skip 1)
+    if ($seen.ContainsKey($current)) { continue }
+    if (-not $byPid.ContainsKey($current)) { continue }
+    if ((($byPid[$current].Name) -replace '\.exe$', '') -ne $leaf) { continue }
+    $seen[$current] = $true
+    $tree.Add($current)
+    if ($kidsOf.ContainsKey($current)) { $queue += $kidsOf[$current] }
+  }
+  return @($tree)
+}
+# --- end verbatim copy ---
+
+function Row($procId, $ppid, $name) { return [pscustomobject]@{ ProcessId = $procId; ParentProcessId = $ppid; Name = $name } }
+$DSH = 'DeepSeek Harness.exe'
+
+# instance A: shell 100 (parent=explorer 1) -> host 101 -> gpu 102, renderer 103
+# instance B: shell 200 (parent=explorer 1) -> host 201 -> gpu 202
+# noise:      explorer 1, console 300 (named differently), unrelated 301 named DSH but parent=services
+$links = @(
+  (Row 1 0 'explorer.exe'),
+  (Row 100 1 $DSH), (Row 101 100 $DSH), (Row 102 101 $DSH), (Row 103 101 $DSH),
+  (Row 200 1 $DSH), (Row 201 200 $DSH), (Row 202 201 $DSH),
+  (Row 301 999 $DSH)
+)
+
+$fail = 0
+function Assert-Set($actual, $expected, $label) {
+  $a = @($actual | Sort-Object); $e = @($expected | Sort-Object)
+  if (($a -join ',') -eq ($e -join ',')) { "PASS $label -> " + ($a -join ',') }
+  else { $script:fail++; "FAIL $label actual=" + ($a -join ',') + ' expected=' + ($e -join ',') }
+}
+
+Assert-Set (Resolve-OwnTree 101 $DSH $links) @(100,101,102,103) 'A host pid -> whole A tree, not B'
+Assert-Set (Resolve-OwnTree 201 $DSH $links) @(200,201,202)     'B host pid -> whole B tree, not A'
+Assert-Set (Resolve-OwnTree 100 $DSH $links) @(100,101,102,103) 'A shell pid -> same A tree'
+Assert-Set (Resolve-OwnTree 301 $DSH $links) @(301)             'orphan named pid -> itself only'
+Assert-Set (Resolve-OwnTree 999 $DSH $links) @()                'unknown pid -> empty (aborts the kill)'
+Assert-Set (Resolve-OwnTree 0 $DSH $links) @()                  'hostPid 0 -> empty'
+
+# name given WITHOUT .exe (as the plugin passes it) must still match
+Assert-Set (Resolve-OwnTree 101 'DeepSeek Harness' $links) @(100,101,102,103) 'name without .exe still matches'
+
+if ($fail -eq 0) { 'ALL PASS'; exit 0 } else { "$fail FAILED"; exit 1 }

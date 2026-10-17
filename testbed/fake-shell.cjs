@@ -1,1 +1,32 @@
-77u/Ly8gRmFrZURzaCBzaGVsbDogY2xhaW1zIGEgbG9jayBwb3J0IChFbGVjdHJvbiByZXF1ZXN0U2luZ2xlSW5zdGFuY2VMb2NrIGFuYWxvZ3VlKSwgc3Bhd25zCi8vIGEgaG9zdCBjaGlsZCwgcmVzcGF3bnMgdGhlIGhvc3Qgd2hlbiBpdCBkaWVzIChFbGVjdHJvbiBhdXRvLXJlc3RhcnQgYW5hbG9ndWUpLgovLyBBIHNlY29uZCBzaGVsbCB0aGF0IGNhbm5vdCB0YWtlIHRoZSBsb2NrIHF1aXRzIGFmdGVyIH45MG1zID0gU1RVQiwgZXhhY3RseSBsaWtlIHRoZSByZWFsIGFwcC4KdmFyIG5ldCA9IHJlcXVpcmUoJ25ldCcpOwp2YXIgc3Bhd24gPSByZXF1aXJlKCdjaGlsZF9wcm9jZXNzJykuc3Bhd247CnZhciBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwp2YXIgYXJncyA9IHByb2Nlc3MuYXJndi5zbGljZSgyKTsKZnVuY3Rpb24gZmxhZyhuYW1lLCBkZmx0KSB7CiAgdmFyIGkgPSBhcmdzLmluZGV4T2YobmFtZSk7CiAgcmV0dXJuIGkgPj0gMCAmJiBhcmdzW2kgKyAxXSA/IGFyZ3NbaSArIDFdIDogZGZsdDsKfQp2YXIgbG9ja1BvcnQgPSBwYXJzZUludChmbGFnKCctLWxvY2stcG9ydCcsICcxOTUwMicpLCAxMCk7CnZhciBzdGF0ZVBvcnQgPSBmbGFnKCctLXN0YXRlLXBvcnQnLCAnMTk1MDEnKTsKdmFyIHJlc3Bhd25NcyA9IHBhcnNlSW50KGZsYWcoJy0tcmVzcGF3bi1tcycsICcwJyksIDEwKTsKdmFyIGhvc3RTY3JpcHQgPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAnZmFrZS1ob3N0LmNqcycpOwoKZnVuY3Rpb24gc3RhcnRIb3N0KCkgewogIHZhciBjaGlsZCA9IHNwYXduKHByb2Nlc3MuZXhlY1BhdGgsIFtob3N0U2NyaXB0LCAnLS1zdGF0ZS1wb3J0Jywgc3RhdGVQb3J0XSwgeyBzdGRpbzogJ2lnbm9yZScsIHdpbmRvd3NIaWRlOiB0cnVlIH0pOwogIGNoaWxkLm9uKCdleGl0JywgZnVuY3Rpb24gKCkgewogICAgaWYgKHJlc3Bhd25NcyA+PSAwKSB7IHNldFRpbWVvdXQoc3RhcnRIb3N0LCByZXNwYXduTXMpOyB9ICAgLy8gc2hlbGwga2VlcHMgdGhlIGhvc3QgYWxpdmUsIGxpa2UgRWxlY3Ryb24KICB9KTsKfQp2YXIgcHJvYmUgPSBuZXQuY3JlYXRlU2VydmVyKCk7CnByb2JlLm9uY2UoJ2Vycm9yJywgZnVuY3Rpb24gKCkgewogIC8vIGxvY2sgdGFrZW4gYnkgYW5vdGhlciBpbnN0YW5jZTogYmVjb21lIHRoZSBzdHViIHRoZSByZWFsIGFwcCBiZWNvbWVzCiAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7IHByb2Nlc3MuZXhpdCgwKTsgfSwgOTApOwp9KTsKcHJvYmUubGlzdGVuKGxvY2tQb3J0LCAnMTI3LjAuMC4xJywgZnVuY3Rpb24gKCkgewogIHN0YXJ0SG9zdCgpOwogIHNldEludGVydmFsKGZ1bmN0aW9uICgpIHt9LCA2MDAwMCk7ICAgLy8gc2hlbGwgaWRsZXMgZm9yZXZlciwgd2F0Y2hpbmcgaXRzIGNoaWxkCn0pOw0KDQo=
+﻿// FakeDsh shell: claims a lock port (Electron requestSingleInstanceLock analogue), spawns
+// a host child, respawns the host when it dies (Electron auto-restart analogue).
+// A second shell that cannot take the lock quits after ~90ms = STUB, exactly like the real app.
+var net = require('net');
+var spawn = require('child_process').spawn;
+var path = require('path');
+var args = process.argv.slice(2);
+function flag(name, dflt) {
+  var i = args.indexOf(name);
+  return i >= 0 && args[i + 1] ? args[i + 1] : dflt;
+}
+var lockPort = parseInt(flag('--lock-port', '19502'), 10);
+var statePort = flag('--state-port', '19501');
+var respawnMs = parseInt(flag('--respawn-ms', '0'), 10);
+var hostScript = path.join(__dirname, 'fake-host.cjs');
+
+function startHost() {
+  var child = spawn(process.execPath, [hostScript, '--state-port', statePort], { stdio: 'ignore', windowsHide: true });
+  child.on('exit', function () {
+    if (respawnMs >= 0) { setTimeout(startHost, respawnMs); }   // shell keeps the host alive, like Electron
+  });
+}
+var probe = net.createServer();
+probe.once('error', function () {
+  // lock taken by another instance: become the stub the real app becomes
+  setTimeout(function () { process.exit(0); }, 90);
+});
+probe.listen(lockPort, '127.0.0.1', function () {
+  startHost();
+  setInterval(function () {}, 60000);   // shell idles forever, watching its child
+});
+

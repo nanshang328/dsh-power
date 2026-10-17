@@ -1,1 +1,13 @@
-77u/Ly8gRmFrZURzaCBob3N0OiBzZXJ2ZXMgdGhlIHNhbWUgSlNPTiBzaGFwZSBhcyBHRVQgL2FwaS9kc2gtcG93ZXIvc3RhdHVzIHNvIHRoZSByZWFsCi8vIHJlc3RhcnQgZW5naW5lIGNhbiBwcm9iZSBpdCB1bmNoYW5nZWQuIHBpZCByZXBvcnRlZCA9IHRoaXMgcGlkIChuZXZlciBpbiB0aGUga2lsbGVkCi8vIHRhcmdldHMgYWZ0ZXIgYSBzdWNjZXNzZnVsIHJlc3RhcnQsIHdoaWNoIGlzIGV4YWN0bHkgd2hhdCBUZXN0LUluc3RhbmNlVXAgY2hlY2tzKS4KdmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7CnZhciBhcmdzID0gcHJvY2Vzcy5hcmd2LnNsaWNlKDIpOwp2YXIgaSA9IGFyZ3MuaW5kZXhPZignLS1zdGF0ZS1wb3J0Jyk7CnZhciBwb3J0ID0gcGFyc2VJbnQoaSA+PSAwID8gYXJnc1tpICsgMV0gOiAnMTk1MDEnLCAxMCk7Cmh0dHAuY3JlYXRlU2VydmVyKGZ1bmN0aW9uIChyZXEsIHJlcykgewogIGlmIChyZXEudXJsID09PSAnL2FwaS9kc2gtcG93ZXIvc3RhdHVzJykgewogICAgcmVzLndyaXRlSGVhZCgyMDAsIHsgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9KTsKICAgIHJlcy5lbmQoSlNPTi5zdHJpbmdpZnkoeyBvazogdHJ1ZSwgcGx1Z2luOiAnZmFrZS1wb3dlcicsIHBpZDogcHJvY2Vzcy5waWQsIHBvcnQ6IHBvcnQgfSkpOwogIH0gZWxzZSB7IHJlcy53cml0ZUhlYWQoNDA0KTsgcmVzLmVuZCgpOyB9Cn0pLmxpc3Rlbihwb3J0LCAnMTI3LjAuMC4xJyk7DQo=
+﻿// FakeDsh host: serves the same JSON shape as GET /api/dsh-power/status so the real
+// restart engine can probe it unchanged. pid reported = this pid (never in the killed
+// targets after a successful restart, which is exactly what Test-InstanceUp checks).
+var http = require('http');
+var args = process.argv.slice(2);
+var i = args.indexOf('--state-port');
+var port = parseInt(i >= 0 ? args[i + 1] : '19501', 10);
+http.createServer(function (req, res) {
+  if (req.url === '/api/dsh-power/status') {
+    res.writeHead(200, { 'content-type': 'application/json' });
+    res.end(JSON.stringify({ ok: true, plugin: 'fake-power', pid: process.pid, port: port }));
+  } else { res.writeHead(404); res.end(); }
+}).listen(port, '127.0.0.1');

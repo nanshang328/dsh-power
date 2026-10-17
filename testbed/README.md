@@ -1,1 +1,52 @@
-IyB0ZXN0YmVkIOKAlCBlbmQtdG8tZW5kIHJ1bnMgb2YgdGhlIHJlc3RhcnQgZW5naW5lCgpUaGUgcmVzdGFydCBlbmdpbmUgaXMgdGhlIHJpc2t5IGhhbGYgb2YgdGhpcyBwbHVnaW46IGl0IHN0b3BzIGEgbGl2ZSBhcHAgYW5kIGlzIHRoZW4gdGhlIG9ubHkKdGhpbmcgbGVmdCB0aGF0IGNhbiBicmluZyBpdCBiYWNrLiBUaGVzZSB0ZXN0cyBleGVyY2lzZSBpdCBhZ2FpbnN0IGEgKipmYWtlIGFwcCoqLCBzbyB0aGV5Cm5ldmVyIHRvdWNoIHlvdXIgcmVhbCBEU0guCgojIyBXaGF0IHRoZSBmYWtlIGFwcCBpcwoKYEZha2VEc2guZXhlYCBpcyBhICoqY29weSBvZiBgbm9kZS5leGVgKiogKG5vdCBjb21taXR0ZWQg4oCUIGl0IGlzIH45MCBNQikuIFRoZSBlbmdpbmUgbWF0Y2hlcwpwcm9jZXNzZXMgYnkgbmFtZSwgc28gdGhlIGZha2UgaGFzIHRvIGxvb2sgbGlrZSBhIHNlY29uZCBpbnN0YWxsIG9mIERTSDogc2FtZSBpbWFnZSBuYW1lLApkaWZmZXJlbnQgZGlyZWN0b3J5LiBDcmVhdGUgaXQgb25jZToKCmBgYHBvd2Vyc2hlbGwKQ29weS1JdGVtIChHZXQtQ29tbWFuZCBub2RlKS5Tb3VyY2UgLlxGYWtlRHNoLmV4ZQojIG5vZGUgaXMgbm90IG9uIFBBVEggKHRoZSBEU0ggcnVudGltZSBzaGlwcyBpdHMgb3duKToKQ29weS1JdGVtICI8RFNIPlxyZXNvdXJjZXNccnVudGltZVxwcmltYXJ5LXJ1bnRpbWVcZGVwZW5kZW5jaWVzXG5vZGVcYmluXG5vZGUuZXhlIiAuXEZha2VEc2guZXhlCmBgYAoKYGZha2Utc2hlbGwuY2pzYCBwbGF5cyB0aGUgRWxlY3Ryb24gc2hlbGw6IGl0IHRha2VzIGEgbG9jayBwb3J0IChgLS1sb2NrLXBvcnRgKSwgc3Bhd25zCmBmYWtlLWhvc3QuY2pzYCBhcyBpdHMgaG9zdCBjaGlsZCBhbmQgcmVzcGF3bnMgaXQgd2hlbiBpdCBkaWVzLiBgZmFrZS1ob3N0LmNqc2Agc2VydmVzIHRoZQpwbHVnaW4ncyBvd24gYC9hcGkvZHNoLXBvd2VyL3N0YXR1c2Agc2hhcGUgb24gYC0tc3RhdGUtcG9ydGAsIHNvIHRoZSBlbmdpbmUncyByZWFkaW5lc3MgY2hlY2sKZ2V0cyBhIHJlYWwgYW5zd2VyLiBBIHNlY29uZCBzaGVsbCB0aGF0IGNhbm5vdCB0YWtlIHRoZSBsb2NrIGV4aXRzIGFmdGVyIH45MCBtcyDigJQgZXhhY3RseSB0aGUKc3R1YiB0aGUgcmVhbCBhcHAgYmVjb21lcy4KCiMjIFRlc3RzCgpgYGBwb3dlcnNoZWxsCnB3c2ggLUZpbGUgdGVzdGJlZFxydW4tdGVzdC5wczEgLVNjZW5hcmlvIEEgICAgICAjIHBsYWluIHJlc3RhcnQKcHdzaCAtRmlsZSB0ZXN0YmVkXHJ1bi10ZXN0LnBzMSAtU2NlbmFyaW8gQiAgICAgICMgc2FtZSBhZ2FpbiAoc3RhdGUgbGVmdCBvdmVyIGZyb20gQSkKcHdzaCAtRmlsZSB0ZXN0YmVkXHJ1bi10ZXN0LnBzMSAtU2NlbmFyaW8gQyAgICAgICMgYSBzZWNvbmQgaW5zdGFuY2UgbXVzdCBzdXJ2aXZlIHVudG91Y2hlZApwd3NoIC1GaWxlIHRlc3RiZWRcbm9wb3J0LXRlc3QucHMxICAgICAgICAgICAgICAgIyBoYW5kLXJ1biBtb2RlICgtUG9ydCAwLCBubyBzdGF0dXMgcm91dGUpCmBgYAoKVGhleSB1c2UgcG9ydHMgMTk1MDEtMTk1MDUgb25seSBhbmQgb25seSBldmVyIGtpbGwgcHJvY2Vzc2VzIG5hbWVkIGBGYWtlRHNoYCAoYEtpbGxBbGxGYWtlYAphdCB0aGUgZW5kIG9mIGVhY2ggcnVuKS4KCnwgVGVzdCB8IFByb3ZlcyB8CnwgLS0tIHwgLS0tIHwKfCBBIHwgb3duLXRyZWUga2lsbCDihpIgcG9ydCBmcmVlZCDihpIgV01JIHJlbGF1bmNoIOKGkiB0aGUgbmV3IGluc3RhbmNlIGlzIHZlcmlmaWVkIG9uIHRoZSBwb3J0IOKGkiB3YXRjaGVkIGZvciA1cyDihpIgZXhpdCAwIHwKfCBCIHwgdGhlIHNhbWUgd2l0aCBhIHN0YXR1cy9zdGF0ZSBmaWxlIGFscmVhZHkgb24gZGlzayAobm8gc3RhbGUtcmVhZCBhc3N1bXB0aW9uKSB8CnwgQyB8IGEgc2Vjb25kIGluc3RhbmNlIG9uIGl0cyBvd24gcG9ydHMgaXMgbm90IGtpbGxlZCwga2VlcHMgc2VydmluZywgYW5kIHRoZSByZXN0YXJ0IHN0aWxsIHN1Y2NlZWRzIHwKfCBuby1wb3J0IHwgd2l0aCBubyBzdGF0dXMgcm91dGUgdG8gcHJvYmU6IGV4aXQgMCwgYHN0YWdlPXJlYWR5YCwgYHJlc3VsdD1va2AsIGFuZCB0aGUgbGF1bmNoZWQgcGlkIGlzIHdhdGNoZWQgaW5zdGVhZCBvZiBhIHBvcnQgfAoKT3V0cHV0OiBgZW5naW5lLTxzY2VuYXJpbz4ubG9nYCAvIGBlbmdpbmUtPHNjZW5hcmlvPi5qc29uYCAoZ2l0aWdub3JlZCkgbmV4dCB0byB0aGVzZSBzY3JpcHRzLAp0aGUgYFNDRU5BUklPIDx4PiA9PiBQQVNTfEZBSUxgIChvciBgTk9QT1JUIFRFU1QgPT4gUEFTU3xGQUlMYCkgdmVyZGljdCBsaW5lLCBhbmQgdGhlIHByb2Nlc3MKZXhpdCBjb2RlLgoKIyMgUnVuIHRoZXNlIG91dHNpZGUgYSByZXN0cmljdGVkIHNoZWxsCgpJbiBhIHNhbmRib3ggdGhhdCBkZW5pZXMgV01JL0NJTSAoYENpbUV4Y2VwdGlvbjog5ouS57ud6K6/6ZeuYCkgdGhlIGVuZ2luZSBjb3JyZWN0bHkgZmFsbHMgYmFjayB0bwpgZXhwbG9yZXIuZXhlYCwgYW5kIGEgaGVhbHRoeSBydW4gdGhlbiBsb29rcyBsaWtlIGEgZmFpbHVyZSDigJQgc2NlbmFyaW8gQSB3b3VsZCBmYWlsIGZvciBhCnJlYXNvbiB0aGF0IGhhcyBub3RoaW5nIHRvIGRvIHdpdGggdGhlIGNvZGUgdW5kZXIgdGVzdC4gVXNlIGEgbm9ybWFsIHNoZWxsLg==
+# testbed — end-to-end runs of the restart engine
+
+The restart engine is the risky half of this plugin: it stops a live app and is then the only
+thing left that can bring it back. These tests exercise it against a **fake app**, so they
+never touch your real DSH.
+
+## What the fake app is
+
+`FakeDsh.exe` is a **copy of `node.exe`** (not committed — it is ~90 MB). The engine matches
+processes by name, so the fake has to look like a second install of DSH: same image name,
+different directory. Create it once:
+
+```powershell
+Copy-Item (Get-Command node).Source .\FakeDsh.exe
+# node is not on PATH (the DSH runtime ships its own):
+Copy-Item "<DSH>\resources\runtime\primary-runtime\dependencies\node\bin\node.exe" .\FakeDsh.exe
+```
+
+`fake-shell.cjs` plays the Electron shell: it takes a lock port (`--lock-port`), spawns
+`fake-host.cjs` as its host child and respawns it when it dies. `fake-host.cjs` serves the
+plugin's own `/api/dsh-power/status` shape on `--state-port`, so the engine's readiness check
+gets a real answer. A second shell that cannot take the lock exits after ~90 ms — exactly the
+stub the real app becomes.
+
+## Tests
+
+```powershell
+pwsh -File testbed\run-test.ps1 -Scenario A      # plain restart
+pwsh -File testbed\run-test.ps1 -Scenario B      # same again (state left over from A)
+pwsh -File testbed\run-test.ps1 -Scenario C      # a second instance must survive untouched
+pwsh -File testbed\noport-test.ps1               # hand-run mode (-Port 0, no status route)
+```
+
+They use ports 19501-19505 only and only ever kill processes named `FakeDsh` (`KillAllFake`
+at the end of each run).
+
+| Test | Proves |
+| --- | --- |
+| A | own-tree kill → port freed → WMI relaunch → the new instance is verified on the port → watched for 5s → exit 0 |
+| B | the same with a status/state file already on disk (no stale-read assumption) |
+| C | a second instance on its own ports is not killed, keeps serving, and the restart still succeeds |
+| no-port | with no status route to probe: exit 0, `stage=ready`, `result=ok`, and the launched pid is watched instead of a port |
+
+Output: `engine-<scenario>.log` / `engine-<scenario>.json` (gitignored) next to these scripts,
+the `SCENARIO <x> => PASS|FAIL` (or `NOPORT TEST => PASS|FAIL`) verdict line, and the process
+exit code.
+
+## Run these outside a restricted shell
+
+In a sandbox that denies WMI/CIM (`CimException: 拒绝访问`) the engine correctly falls back to
+`explorer.exe`, and a healthy run then looks like a failure — scenario A would fail for a
+reason that has nothing to do with the code under test. Use a normal shell.

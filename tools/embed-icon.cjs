@@ -1,1 +1,47 @@
-Ly8gSW5saW5lIGNsaWVudC9uaWFuZy1zbGVlcC53ZWJwIGludG8gY2xpZW50L3dpZGdldC5qcyBhcyBhIGRhdGEgVVJJLgovLwovLyAgIHB5dGhvbiB0b29scy9idWlsZC1pY29uLnB5ICAgICAgLT4gY2xpZW50L25pYW5nLXNsZWVwLnBuZyAoc291cmNlIG9mIHRydXRoKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xpZW50L25pYW5nLXNsZWVwLndlYnAgKDUxMnB4LCA0MEtCIGJhc2U2NCkKLy8gICBub2RlICAgdG9vbHMvZW1iZWQtaWNvbi5janMgICAgIC0+IHJld3JpdGVzIHRoZSBJQ09OX0RBVEFfVVJJIGxpbmUgaW4gd2lkZ2V0LmpzCi8vCi8vIFdoeSBhIGJ1aWxkIHN0ZXAgYXQgYWxsOiB3aWRnZXQuanMgaXMgc2VydmVkIGJ5IHRoZSBwbHVnaW4ncyBvd24gcm91dGUgYW5kIGlzCi8vIHJlLXJlYWQgZnJvbSBkaXNrIG9uIGV2ZXJ5IHBhZ2UgbG9hZCwgc28gaW5saW5pbmcgdGhlIHBpY3R1cmUgbWVhbnMgdGhlIGJ1dHRvbgovLyBmYWNlIGNoYW5nZXMgd2l0aG91dCByZXN0YXJ0aW5nIERTSC4gVGhlIHBsYWNlaG9sZGVyIGlzIGEgdG9rZW4gdGhhdCB0aGlzCi8vIHNjcmlwdCByZXBsYWNlczsgaWYgaXQgaXMgZXZlciBsZWZ0IHVucmVwbGFjZWQgdGhlIHdpZGdldCB0cmVhdHMgaXQgYXMKLy8gIm5vIHBpY3R1cmUiIGFuZCBmYWxscyBiYWNrIHRvIHRoZSBpbmxpbmUgU1ZHIHBvd2VyIGdseXBoLgpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cgpjb25zdCBQTFVHSU4gPSBwYXRoLmRpcm5hbWUoX19kaXJuYW1lKTsKY29uc3QgSU1BR0UgPSBwYXRoLmpvaW4oUExVR0lOLCAnY2xpZW50JywgJ25pYW5nLXNsZWVwLndlYnAnKTsKY29uc3QgV0lER0VUID0gcGF0aC5qb2luKFBMVUdJTiwgJ2NsaWVudCcsICd3aWRnZXQuanMnKTsKY29uc3QgVE9LRU4gPSAnX19EU0hfUE9XRVJfSUNPTl9EQVRBX1VSSV9fJzsKCmlmICghZnMuZXhpc3RzU3luYyhJTUFHRSkpIHsKICBjb25zb2xlLmVycm9yKCdtaXNzaW5nICcgKyBJTUFHRSArICcgLS0gcnVuOiBweXRob24gdG9vbHMvYnVpbGQtaWNvbi5weScpOwogIHByb2Nlc3MuZXhpdCgxKTsKfQoKY29uc3QgYmFzZTY0ID0gZnMucmVhZEZpbGVTeW5jKElNQUdFKS50b1N0cmluZygnYmFzZTY0Jyk7CmNvbnN0IGRhdGFVcmkgPSAnZGF0YTppbWFnZS93ZWJwO2Jhc2U2NCwnICsgYmFzZTY0OwoKY29uc3Qgc291cmNlID0gZnMucmVhZEZpbGVTeW5jKFdJREdFVCwgJ3V0ZjgnKTsKY29uc3QgbGluZSA9ICJ2YXIgSUNPTl9EQVRBX1VSSSA9ICciICsgVE9LRU4gKyAiJzsiOwoKLy8gUmVwbGFjZSB0aGUgdG9rZW4gd2hlcmV2ZXIgaXQgc2l0cyBpbnNpZGUgdGhhdCBkZWNsYXJhdGlvbiAtLSB0aGUgZmlsZSBvbiBkaXNrCi8vIG1heSBhbHJlYWR5IGhvbGQgYSBwcmV2aW91cyBkYXRhIFVSSSwgd2hpY2ggaXMgZXhhY3RseSB0aGUgbm9ybWFsIHJlLXJ1biBjYXNlLgpjb25zdCBwYXR0ZXJuID0gL3ZhciBJQ09OX0RBVEFfVVJJID0gJ1teJ10qJzsvOwppZiAoIXBhdHRlcm4udGVzdChzb3VyY2UpICYmIHNvdXJjZS5pbmRleE9mKFRPS0VOKSA9PT0gLTEpIHsKICBjb25zb2xlLmVycm9yKCd3aWRnZXQuanMgaGFzIG5vIElDT05fREFUQV9VUkkgbGluZTsgcmVmdXNpbmcgdG8gZ3Vlc3MnKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0KCmNvbnN0IG5leHQgPSBzb3VyY2UucmVwbGFjZShwYXR0ZXJuLCAidmFyIElDT05fREFUQV9VUkkgPSAnIiArIGRhdGFVcmkgKyAiJzsiKTsKZnMud3JpdGVGaWxlU3luYyhXSURHRVQsIG5leHQsICd1dGY4Jyk7Cgpjb25zdCBjaGVjayA9IGZzLnJlYWRGaWxlU3luYyhXSURHRVQsICd1dGY4Jyk7CmNvbnNvbGUubG9nKCdpbWFnZSAgICAgICAgOiAnICsgSU1BR0UgKyAnICgnICsgZnMuc3RhdFN5bmMoSU1BR0UpLnNpemUgKyAnIGJ5dGVzKScpOwpjb25zb2xlLmxvZygnZGF0YSB1cmkgICAgIDogJyArIGRhdGFVcmkubGVuZ3RoICsgJyBjaGFycycpOwpjb25zb2xlLmxvZygnd2lkZ2V0LmpzICAgIDogJyArIHNvdXJjZS5sZW5ndGggKyAnIC0+ICcgKyBjaGVjay5sZW5ndGggKyAnIGNoYXJzJyk7CmNvbnNvbGUubG9nKCdwbGFjZWhvbGRlciAgOiAnICsgKGNoZWNrLmluZGV4T2YoVE9LRU4pID09PSAtMSA/ICdnb25lIChnb29kKScgOiAnU1RJTEwgUFJFU0VOVCcpKTsKY29uc29sZS5sb2coJ2RlY2xhcmF0aW9uICA6ICcgKyAoY2hlY2subWF0Y2gocGF0dGVybikgfHwgWyc/J10pWzBdLnNsaWNlKDAsIDYwKSArICcuLi4nKTs=
+// Inline client/niang-sleep.webp into client/widget.js as a data URI.
+//
+//   python tools/build-icon.py      -> client/niang-sleep.png (source of truth)
+//                                      client/niang-sleep.webp (512px, 40KB base64)
+//   node   tools/embed-icon.cjs     -> rewrites the ICON_DATA_URI line in widget.js
+//
+// Why a build step at all: widget.js is served by the plugin's own route and is
+// re-read from disk on every page load, so inlining the picture means the button
+// face changes without restarting DSH. The placeholder is a token that this
+// script replaces; if it is ever left unreplaced the widget treats it as
+// "no picture" and falls back to the inline SVG power glyph.
+const fs = require('fs');
+const path = require('path');
+
+const PLUGIN = path.dirname(__dirname);
+const IMAGE = path.join(PLUGIN, 'client', 'niang-sleep.webp');
+const WIDGET = path.join(PLUGIN, 'client', 'widget.js');
+const TOKEN = '__DSH_POWER_ICON_DATA_URI__';
+
+if (!fs.existsSync(IMAGE)) {
+  console.error('missing ' + IMAGE + ' -- run: python tools/build-icon.py');
+  process.exit(1);
+}
+
+const base64 = fs.readFileSync(IMAGE).toString('base64');
+const dataUri = 'data:image/webp;base64,' + base64;
+
+const source = fs.readFileSync(WIDGET, 'utf8');
+const line = "var ICON_DATA_URI = '" + TOKEN + "';";
+
+// Replace the token wherever it sits inside that declaration -- the file on disk
+// may already hold a previous data URI, which is exactly the normal re-run case.
+const pattern = /var ICON_DATA_URI = '[^']*';/;
+if (!pattern.test(source) && source.indexOf(TOKEN) === -1) {
+  console.error('widget.js has no ICON_DATA_URI line; refusing to guess');
+  process.exit(1);
+}
+
+const next = source.replace(pattern, "var ICON_DATA_URI = '" + dataUri + "';");
+fs.writeFileSync(WIDGET, next, 'utf8');
+
+const check = fs.readFileSync(WIDGET, 'utf8');
+console.log('image        : ' + IMAGE + ' (' + fs.statSync(IMAGE).size + ' bytes)');
+console.log('data uri     : ' + dataUri.length + ' chars');
+console.log('widget.js    : ' + source.length + ' -> ' + check.length + ' chars');
+console.log('placeholder  : ' + (check.indexOf(TOKEN) === -1 ? 'gone (good)' : 'STILL PRESENT'));
+console.log('declaration  : ' + (check.match(pattern) || ['?'])[0].slice(0, 60) + '...');
