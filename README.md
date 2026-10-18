@@ -26,7 +26,7 @@ Behind the scenes:
 
 ## Install
 
-From GitHub (when available):
+From GitHub:
 
 ```sh
 dsh plugin --profile desktop add github:nanshang328/dsh-power
